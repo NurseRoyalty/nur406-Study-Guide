@@ -48,10 +48,12 @@ const SITE = {
     {
       label: "Week 1",
       items: [
+        { id: "week1-study-guide", num: "★", title: "Comprehensive Study Guide", file: "week1-study-guide.html" },
         { id: "week1-pericardial-disease", num: "1", title: "Myocarditis, Pericarditis &amp; Cardiac Tamponade", file: "week1-pericardial-disease.html" },
         { id: "week1-acs-mi", num: "2", title: "Acute Coronary Syndrome &amp; Myocardial Infarction", file: "week1-acs-mi.html" },
         { id: "week1-acute-mi-pharm", num: "3", title: "Acute MI Pharmacology", file: "week1-acute-mi-pharm.html" },
         { id: "week1-aneurysms", num: "4", title: "Aneurysms &amp; Aortic Dissection", file: "week1-aneurysms.html" },
+        { id: "week1-big-picture-overview", num: "5", title: "Big Picture Overview", file: "week1-big-picture-overview.html" },
       ]
     },
     {
