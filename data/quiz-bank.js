@@ -642,6 +642,301 @@ window.QUIZ_BANK = {
         ],
         "eaq": []
       }
+    },
+    {
+      "id": "week2-acid-base-balance",
+      "label": "Acid-Base Balance",
+      "week": 2,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "While reviewing pH with a nursing student, the nurse compares two solutions, one at pH 5 and one at pH 6. The student says, \"They're only one step apart, so the pH 5 solution has just a few more hydrogen ions.\" Which correction by the nurse is accurate?",
+            "options": [
+              "The pH 6 solution holds more hydrogen ions, since a higher number on the scale reflects more hydrogen ions.",
+              "The two differ by one fixed amount of hydrogen ions, since each step on the scale is an equal linear increment.",
+              "The pH 5 solution is about twice as acidic, since each step on the scale doubles the hydrogen ion concentration.",
+              "The pH 5 solution is ten times more acidic, since each step on the scale is a tenfold change in hydrogen ions."
+            ],
+            "answer": 3,
+            "rationale": "Correct: The pH scale is logarithmic, not linear; each number is 10 times more acidic or alkaline than the one before it, so a pH of 5 is 10 times more acidic than a pH of 6. Incorrect: The doubling option keeps the idea of a multiplier but uses the wrong factor; the change is tenfold. The linear option is the student's own misconception restated. The pH 6 option flips the inverse relationship: when hydrogen ions go up, pH goes down.",
+            "topic": "Acid-Base Balance",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "Two clients have oxygen saturations in the high 90s. Client A has a serum pH of 7.52; Client B has a serum pH of 7.31. Which statement by the nurse best identifies the client at greater risk of inadequate tissue oxygenation?",
+            "options": [
+              "Client A, since in an alkalotic environment hemoglobin holds on to oxygen rather than giving it to the tissue.",
+              "Client B, since in an acidotic environment hemoglobin holds on to oxygen rather than giving it to the tissue.",
+              "Client B, since in an acidotic environment hemoglobin releases its oxygen in the lungs before reaching tissue.",
+              "Neither client, since both pH values are between 6.8 and 7.8 and so oxygen delivery is not yet affected."
+            ],
+            "answer": 0,
+            "rationale": "Correct: In an alkalotic environment hemoglobin holds on to oxygen and doesn't give it to the tissue, which can result in inadequate tissue oxygenation; a high saturation does not mean the tissue is receiving that oxygen. This is one reason the body works to avoid alkalosis, which is also difficult to correct. Incorrect: The Client B options flip the relationship; in acidosis hemoglobin gives up oxygen more readily at the tissue. The 6.8 to 7.8 values are the limits of survivability, not a range where oxygen delivery is unaffected; both clients are already outside the normal 7.35 to 7.45.",
+            "topic": "Acid-Base Balance",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with renal failure who usually takes bicarb daily has missed several doses and now also has diabetic ketoacidosis with rising beta-hydroxybutyric acid. Which statement best explains why this client is at high risk for worsening acidosis?",
+            "options": [
+              "Beta-hydroxybutyric acid is a weak acid that holds on to its hydrogen ions, so the chemical buffers cannot bind it.",
+              "Beta-hydroxybutyric acid is a volatile acid, and the failing kidneys cannot convert it to carbon dioxide for exhaling.",
+              "Beta-hydroxybutyric acid is a non-volatile acid that only the kidneys can eliminate, and these kidneys cannot do so.",
+              "Beta-hydroxybutyric acid is cleared by the liver alone, and ketoacidosis prevents the liver from metabolizing it."
+            ],
+            "answer": 2,
+            "rationale": "Correct: Beta-hydroxybutyric acid is a non-volatile acid, and non-volatile acids can be eliminated only by the kidneys; in renal failure patients can no longer maintain a normal pH, which is why they often take bicarb daily. Incorrect: The volatile option is wrong because carbonic acid is the only volatile acid in the body, and it is carbonic anhydrase, not the kidney, that dissociates it into CO2 and water. Most non-volatile acids are strong acids that readily release hydrogen ions, so the weak-acid option is wrong. The liver produces acetoacetic acid and helps metabolize lactic acid; it is not described as the sole route for beta-hydroxybutyric acid.",
+            "topic": "Acid-Base Balance",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "Half an hour after a client develops a sudden acid load, the nurse notes an increased rate and depth of breathing. A student asks, \"Shouldn't the kidneys have fixed this by now? They control bicarb, so they must not be working.\" Which response by the nurse is most accurate?",
+            "options": [
+              "The kidneys respond within seconds by releasing bicarb, so the deeper breathing confirms that they have already failed.",
+              "The buffers acted within seconds, the lungs act over minutes to hours, and the kidneys need several hours to days.",
+              "The buffers are the long-term regulators, so the kidneys do not respond until the buffer supply is fully used up.",
+              "The lungs are the long-term regulators here, and the kidneys correct only acids that are exhaled as carbon dioxide."
+            ],
+            "answer": 1,
+            "rationale": "Correct: The three lines of defense work on different timelines: chemical buffers almost instantaneously (seconds), the respiratory system over several minutes to hours, and renal control over several hours to days. Deeper, faster breathing at 30 minutes is the expected respiratory response, not evidence of renal failure. Incorrect: The first option gives the kidneys the buffers' timeline. Buffers make only small, short-term, unsustainable corrections, and the kidneys, not the buffers or lungs, are the long-term regulators. The lungs, not the kidneys, act on acid eliminated as CO2.",
+            "topic": "Acid-Base Balance",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A nursing student is summarizing the body's buffer systems for a care conference. Which statement by the student requires correction by the nurse?",
+            "options": [
+              "The phosphate buffer is the main buffer outside the cells, and its level is measured on routine blood work.",
+              "The bicarbonate-carbonic acid buffer is the main buffer in the extracellular fluid, the fluid outside the cells.",
+              "Hemoglobin binds CO2 to form carbaminohemoglobin, carrying it to the lungs to be exhaled.",
+              "When pH decreases, proteins accept hydrogen ions; when pH increases, proteins release them."
+            ],
+            "answer": 0,
+            "rationale": "Correct: The phosphate buffer is the main intracellular buffer; it picks up hydrogen ions inside the cell and can't be measured, so this statement needs correcting. Incorrect: The other statements are accurate. Bicarbonate-carbonic acid is the main extracellular buffer. Hemoglobin forms carbaminohemoglobin, carrying CO2 to the lungs and keeping it from dissociating into carbonic acid. Protein carboxyl groups release hydrogen ions as pH rises, and amino groups accept them as pH falls.",
+            "topic": "Acid-Base Balance",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client who took an overdose of a narcotic has a respiratory rate of 6 breaths per minute. Using the carbonic acid equation, which change in the client's acid-base status does the nurse anticipate?",
+            "options": [
+              "CO2 falls because fewer breaths bring in less air, so less carbonic acid forms and the pH rises.",
+              "CO2 rises, driving the equation toward bicarb so that hydrogen ions are used up and the pH rises.",
+              "CO2 rises, and carbonic anhydrase in the lungs turns it into bicarb that is exhaled, so pH holds.",
+              "CO2 rises, forming more carbonic acid that releases hydrogen ions, so the pH of the blood falls."
+            ],
+            "answer": 3,
+            "rationale": "Correct: With respiratory depression, such as narcotic use or an overdose, the respiratory rate is so low the lungs can't remove the CO2. In CO2 + H2O to H2CO3 to H+ + HCO3-, more CO2 forms more carbonic acid, which releases hydrogen ions; more hydrogen ions means a lower pH. Incorrect: The option driving toward bicarb ignores that the same dissociation also produces hydrogen ions. In the lungs carbonic anhydrase breaks carbonic acid into CO2 and water for exhaling; bicarb is not exhaled. Slow breathing retains CO2 rather than lowering it.",
+            "topic": "Acid-Base Balance",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with acidosis and normally functioning kidneys had an elevated serum potassium on admission. The client's pH has now returned to normal. Which potassium change should the nurse monitor for next?",
+            "options": [
+              "Continued hyperkalemia, since potassium that has shifted out of the cells stays in the blood after the pH is normal.",
+              "Hypokalemia, since potassium moves back into the cells after the excess was already excreted.",
+              "Worsening hyperkalemia, since hydrogen ions returning to the blood push more potassium out of the cells.",
+              "No change in potassium, since cellular compensation permanently corrected the pH at the level of the cell."
+            ],
+            "answer": 1,
+            "rationale": "Correct: In acidosis hydrogen ions move into the cell and potassium moves out, raising blood potassium. When pH returns to normal, hydrogen ions move back into the blood and potassium moves back into the cells; with working kidneys the excess potassium has already been excreted, so this can lead to hypokalemia. Incorrect: Persistent hyperkalemia is the concern with kidney dysfunction, not working kidneys. Hydrogen returning to the blood is paired with potassium moving into cells, not out. Cellular compensation is temporary, not a permanent solution.",
+            "topic": "Acid-Base Balance",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "Two clients have healthy kidneys, but neither client's lungs are able to compensate. Client A has a persistent acidosis; client B has a persistent alkalosis. Which statement about renal correction of the two imbalances is accurate?",
+            "options": [
+              "Client B's will be handled better, since the kidneys excrete bicarb more easily than they hold it.",
+              "Both are handled equally well, since the kidneys adjust bicarb in either direction within minutes.",
+              "Client A's will be handled better, since it is harder for kidneys to excrete bicarb than hold it.",
+              "Neither can be handled by the kidneys, since only the chemical buffers act on a lasting imbalance."
+            ],
+            "answer": 2,
+            "rationale": "Correct: The kidneys control pH by adjusting bicarb: in acidosis they increase bicarb reabsorption and hydrogen ion secretion, and in alkalosis they decrease bicarb reabsorption. It is harder for the kidneys to excrete bicarb than to hold on to it, so they manage an acidotic state better than an alkalotic one. Incorrect: The client B option reverses that relationship. The kidneys are the slowest line of defense, taking several hours to days, not minutes. Chemical buffers make only small, short-term corrections; the kidneys are the long-term regulators.",
+            "topic": "Acid-Base Balance",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with COPD who chronically retains CO2 has a serum bicarb above normal and a serum pH within normal limits. A new nurse says the high bicarb is a separate problem that needs treatment to lower it. Which response by the charge nurse is most accurate?",
+            "options": [
+              "Over time the lungs have produced extra bicarb to offset the retained CO2, so the lungs are protecting the pH.",
+              "Over time the kidneys have excreted more bicarb into the urine, and that excretion is what raised the serum bicarb.",
+              "Over time the kidneys have held on to more bicarb to balance the retained CO2, so the serum pH stays balanced.",
+              "Over time the cell buffers have released bicarb as a sustained fix, so the higher bicarb will remain permanently."
+            ],
+            "answer": 2,
+            "rationale": "Correct: A patient retaining CO2, like a COPD patient, pushes the carbonic acid equation toward more bicarb, and over time the kidneys compensate by retaining bicarb, so this patient has higher CO2 and higher bicarb to balance the serum pH. Incorrect: Excreting bicarb would lower serum bicarb; that is the kidneys' response to a pH that is too high. The kidneys, not the lungs, are the primary controller of bicarb. Buffers make only small, short-term corrections that are not sustainable.",
+            "topic": "Acid-Base Balance",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client's lactic acid level is elevated after a period of shock with poor tissue oxygenation. Which statements about how the body handles this acid are accurate? Select all that apply.",
+            "options": [
+              "It forms as a byproduct of metabolism that has no oxygen.",
+              "The lungs can exhale it as CO2 if breathing rate and depth rise.",
+              "The liver and kidneys metabolize it as part of its clearance.",
+              "Carbonic anhydrase breaks it down into CO2 and water to exhale.",
+              "Once oxygen is restored, it can be reconverted for energy.",
+              "Chemical buffers can correct it as a sustained, long-term fix."
+            ],
+            "answers": [
+              0,
+              2,
+              4
+            ],
+            "rationale": "Correct: Lactic acid is a byproduct of anaerobic metabolism (metabolism without oxygen). As a non-volatile acid it is not handled by the lungs. It is metabolized by the liver and kidneys, and once oxygen is reestablished to the tissue it can be reconverted and used for energy again. Incorrect: Respiratory control works only on volatile acids, not on non-volatile acids like lactic acid, and carbonic anhydrase acts on carbonic acid, the only volatile acid. Chemical buffers make small, short-term corrections that are not sustainable.",
+            "topic": "Acid-Base Balance",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
+    },
+    {
+      "id": "week2-abg-interpretation",
+      "label": "ABGs &amp; ABG Interpretation",
+      "week": 2,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "A client admitted after 3 days of prolonged vomiting also takes a loop diuretic at home. Respirations are slow and shallow. ABG: pH 7.51, PaCO2 48, HCO3 36. How should the nurse interpret this ABG?",
+            "options": [
+              "Uncompensated metabolic alkalosis, since the PaCO2 is still within normal range",
+              "Partially compensated metabolic alkalosis, with the lungs retaining CO2",
+              "Partially compensated respiratory acidosis, with the kidneys retaining bicarb",
+              "Fully compensated metabolic alkalosis, since both the CO2 and bicarb are high"
+            ],
+            "answer": 1,
+            "rationale": "Correct: The pH of 7.51 is basic, and the bicarb of 36 (above 24 to 29) is also basic, so the bicarb matches the pH (Metabolic Equal): metabolic alkalosis, fitting vomiting and loop diuretics as causes. The PaCO2 of 48 is abnormal (above 35 to 45) and moving in the same direction as the bicarb, so the lungs are compensating by slowing breathing to hold on to CO2. Because the pH is still abnormal, it is partially compensated. Incorrect: A PaCO2 of 48 is above the normal range, so this is not uncompensated. Respiratory acidosis would need an acidic pH to match the high CO2, but this pH is basic. Fully compensated requires the pH to be back within 7.35 to 7.45.",
+            "topic": "ABGs &amp; ABG Interpretation",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "Two clients have morning ABGs. Client A has long-standing COPD: pH 7.37, PaCO2 58, HCO3 34. Client B was admitted 4 days ago in DKA and has been treated: pH 7.40, PaCO2 40, HCO3 26. A nursing student says, \"Both pH values are normal, so both imbalances are corrected.\" Which response by the nurse is accurate?",
+            "options": [
+              "Client A is corrected and client B is compensated, because A's pH leans toward the acidic side.",
+              "Both are compensated, because a normal pH always means the cause is still present.",
+              "Client A is compensated and client B is corrected; only B's CO2 and bicarb are normal.",
+              "Client A is partially compensated, because A's CO2 and bicarb are still abnormal."
+            ],
+            "answer": 2,
+            "rationale": "Correct: Compensated and corrected both have a normal pH; the difference is the CO2 and bicarb. Client A's CO2 and bicarb are still abnormal but balanced (compensated respiratory acidosis, the COPD pattern of holding CO2 with a high bicarb), while client B's CO2 and bicarb are also normal after the cause was treated, which is corrected. The lecture notes a COPD client will never show a fully corrected ABG. Incorrect: Partially compensated requires an abnormal pH; client A's pH of 7.37 is normal, so abnormal CO2 and bicarb with a normal pH means compensated, not partially compensated. A leaning pH identifies the primary problem; it does not make an ABG corrected.",
+            "topic": "ABGs &amp; ABG Interpretation",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "Two clients are both confused and reporting muscle cramps and tremors. Client A has had an NG tube to continuous suction for 4 days. Client B has had prolonged diarrhea for 5 days. Which additional finding would the nurse expect in client B but not in client A?",
+            "options": [
+              "Warm, flushed skin with deep, rapid respirations",
+              "Slow, shallow respirations with nausea and vomiting",
+              "Light-headedness with a syncopal episode on standing",
+              "Nausea, vomiting, and a change in level of consciousness"
+            ],
+            "answer": 0,
+            "rationale": "Correct: Prolonged diarrhea loses bicarb, causing metabolic acidosis, which lists warm, flushed skin among its manifestations, and the lungs compensate with deep, rapid (Kussmaul-type) breathing to blow off CO2. Prolonged NG suctioning pulls hydrochloric acid out of the stomach, causing metabolic alkalosis, where breathing slows instead. Incorrect: Slow, shallow respirations (respiratory depression to hold on to CO2) belong to client A's metabolic alkalosis, not client B. Light-headedness and syncope are listed for respiratory alkalosis. Nausea, vomiting and changes in level of consciousness appear in both metabolic disorders, so they do not separate the two clients, just as the shared confusion, cramps and tremors do not.",
+            "topic": "ABGs &amp; ABG Interpretation",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with an NG tube to prolonged suction has an ABG of pH 7.53, PaCO2 43, HCO3 37. The client has no history of lung or kidney disease. Which prescription would the nurse anticipate to address the primary cause?",
+            "options": [
+              "Breathing into a paper bag to help the client retain CO2",
+              "Daily oral bicarb to replace what the kidneys cannot hold",
+              "Increasing the rate and depth of breathing to blow off CO2",
+              "A proton pump inhibitor to reduce gastric acid secretion"
+            ],
+            "answer": 3,
+            "rationale": "Correct: A basic pH with a high bicarb and a normal CO2 is uncompensated metabolic alkalosis, and NG suctioning pulls hydrochloric acid out of the stomach. Treatment targets the cause; drugs that reduce gastric hydrochloric acid secretion (H2 blockers and proton pump inhibitors) are the lecture's treatment. Incorrect: The paper bag retains CO2 and is the treatment for respiratory alkalosis from hyperventilation; this CO2 is normal, so the lungs are not the problem. Daily bicarb is for dialysis clients with metabolic acidosis and would add more base. Increasing rate and depth to blow off CO2 is the intervention for respiratory acidosis.",
+            "topic": "ABGs &amp; ABG Interpretation",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A mechanically ventilated client with sepsis and a fever has an ABG of pH 7.53, PaCO2 29, HCO3 26. The ventilator respiratory rate was increased 2 hours ago. Which action would the nurse anticipate?",
+            "options": [
+              "Increase the set tidal volume to improve ventilation",
+              "Expect the kidneys to raise the bicarb within the hour",
+              "Collaborate with the team on lowering the set rate",
+              "Encourage slow, deep breaths to blow off more CO2"
+            ],
+            "answer": 2,
+            "rationale": "Correct: A high pH with a low CO2 (opposite directions) and a normal bicarb is uncompensated respiratory alkalosis. Sepsis and fever can drive it, but a ventilator respiratory rate set too high is a listed cause, and the treatment on a ventilator is changing the settings to decrease respirations so CO2 is retained. Incorrect: Increasing tidal volume (too big a tidal volume is also a listed cause) would blow off even more CO2. Kidney compensation takes hours to days and would lower, not raise, the bicarb to offset an alkalosis. Deep breathing to blow off CO2 is the respiratory acidosis intervention and would worsen this alkalosis.",
+            "topic": "ABGs &amp; ABG Interpretation",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with COPD has a known baseline ABG of PaCO2 60 and HCO3 32 with a normal pH. Today the client has pneumonia and is more short of breath; the ABG is pH 7.28, PaCO2 75, HCO3 32. Which interpretation is most accurate?",
+            "options": [
+              "A new metabolic acidosis, since the pH fell while the bicarb stayed the same",
+              "An acute rise in CO2 that the kidneys have not yet had time to offset",
+              "Kidney failure, since the bicarb did not rise as the CO2 increased",
+              "A metabolic problem the lungs are now compensating for by retaining CO2"
+            ],
+            "answer": 1,
+            "rationale": "Correct: This is the lecture's acute-on-chronic COPD pattern. At baseline the high bicarb balances the chronically high CO2. With the infection, breathing worsens and CO2 rises quickly, but the bicarb is still 32 because the kidneys take hours to days and haven't had a chance to compensate, so the pH drops. Incorrect: Metabolic acidosis would require a low bicarb matching the low pH; this bicarb is high. An unchanged bicarb this soon reflects the slow timing of kidney compensation, not kidney failure. The primary change is the high CO2 moving opposite the pH (Respiratory Opposite), so the lungs are the problem, not the compensating system.",
+            "topic": "ABGs &amp; ABG Interpretation",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client's ABG is pH 7.43, PaCO2 31, HCO3 19. Two nurses disagree on whether the primary problem is respiratory or metabolic. Which interpretation is correct?",
+            "options": [
+              "Fully compensated metabolic acidosis, with the lungs blowing off CO2",
+              "Partially compensated respiratory alkalosis, since the CO2 and bicarb are both low",
+              "Corrected respiratory alkalosis, since the pH is within normal limits",
+              "Fully compensated respiratory alkalosis, with the kidneys excreting bicarb"
+            ],
+            "answer": 3,
+            "rationale": "Correct: The pH is normal while the CO2 and bicarb are both abnormal, so compensation has occurred and the pH points the way. Treating 7.40 as neutral, 7.43 leans basic. A low CO2 is basic and matches the pH lean (Respiratory Opposite), so the primary problem is respiratory alkalosis, and the low bicarb is the kidneys compensating. Incorrect: Metabolic acidosis would need the pH to lean acidic (7.35 to 7.40) to match the low bicarb. Partially compensated requires an abnormal pH. Corrected requires the CO2 and bicarb to be normal too, and both are still abnormal here.",
+            "topic": "ABGs &amp; ABG Interpretation",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with three fractured ribs is splinting, rates pain 9/10, and says, \"I can't catch my breath.\" Respirations are shallow. ABG: pH 7.31, PaCO2 53, HCO3 26. Which intervention best addresses the acid-base imbalance?",
+            "options": [
+              "Encourage slow, deep breaths to blow off the retained CO2",
+              "Have the client breathe into a paper bag to slow breathing",
+              "Calm the client and give an anti-anxiety drug to slow the rate",
+              "Expect the kidneys to correct it, so ventilation can stay as is"
+            ],
+            "answer": 0,
+            "rationale": "Correct: A low pH with a high CO2 and a normal bicarb is uncompensated respiratory acidosis, and uncontrolled pain causing shallow breathing (as with broken ribs) is a listed cause. The intervention is to improve ventilation by increasing the rate and depth of breathing to blow off CO2, such as encouraging slow, deep breathing. Incorrect: The paper bag and anti-anxiety drugs are respiratory alkalosis treatments meant to retain CO2 and decrease respirations, which would worsen this acidosis; the client's report of not catching their breath reflects respiratory acidosis, not panic. The kidneys compensate but do not correct the cause, and they take hours to days.",
+            "topic": "ABGs &amp; ABG Interpretation",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with type 1 diabetes in DKA is breathing deeply and rapidly. ABG: pH 7.27, PaCO2 29, HCO3 14. A nursing student says, \"The low CO2 shows the fast breathing is the real problem, so we should slow it down.\" Which response by the nurse is best?",
+            "options": [
+              "\"This is respiratory alkalosis, so a paper bag will help the client retain CO2.\"",
+              "\"The breathing is compensating for metabolic acidosis; insulin treats the cause.\"",
+              "\"This is respiratory alkalosis that the kidneys are offsetting by lowering bicarb.\"",
+              "\"The breathing is compensating, so the kidneys will correct the pH in minutes.\""
+            ],
+            "answer": 1,
+            "rationale": "Correct: The pH is acidic and the bicarb is low in the same direction (Metabolic Equal), so the primary disorder is metabolic acidosis from the ketone acids of DKA. The deep, rapid Kussmaul respirations are compensatory hyperventilation blowing off CO2, which is why the CO2 is low; the pH is still abnormal, so it is partially compensated. Treatment is insulin to bring the glucose down and decrease the acid. Incorrect: Respiratory alkalosis requires a high pH; this pH is low, so slowing the breathing (paper bag) would remove the compensation. The kidneys do not act in minutes; kidney compensation takes hours to days, and the lungs are doing the compensating here.",
+            "topic": "ABGs &amp; ABG Interpretation",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "The nurse is reviewing assignments on a medical unit. For which clients would the nurse anticipate an ABG showing a low pH with a high PaCO2? Select all that apply.",
+            "options": [
+              "A client found down after taking too many opioid pills",
+              "A client with sepsis, a fever, and a respiratory rate of 30",
+              "A client with Guillain-Barré whose breathing is weakening",
+              "A client still drowsy in recovery after general anesthesia",
+              "A client with 3 days of NG suction and slow, shallow breaths",
+              "A client with ALS whose breathing is now slow and shallow"
+            ],
+            "answers": [
+              0,
+              2,
+              3,
+              5
+            ],
+            "rationale": "Correct: A low pH with a high CO2 is respiratory acidosis, primarily caused by hypoventilation. Listed causes include overdose or a client found down after too much narcotic, neuromuscular problems such as Guillain-Barré and ALS, and anesthesia and post-anesthesia, when the body can take longer to metabolize the drugs. Incorrect: Increased metabolic demand from fever, infection and sepsis drives faster breathing and respiratory alkalosis, with a high pH and low CO2. Prolonged NG suction causes metabolic alkalosis; the slow, shallow breathing there is the lungs compensating by holding on to CO2, so the CO2 may be high but the pH is high, not low.",
+            "topic": "ABGs &amp; ABG Interpretation",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
     }
   ],
 
@@ -649,7 +944,9 @@ window.QUIZ_BANK = {
     "Myocarditis, Pericarditis &amp; Cardiac Tamponade",
     "Acute Coronary Syndrome &amp; Myocardial Infarction",
     "Acute MI Pharmacology",
-    "Aneurysms &amp; Aortic Dissection"
+    "Aneurysms &amp; Aortic Dissection",
+    "Acid-Base Balance",
+    "ABGs &amp; ABG Interpretation"
   ]
 };
 
