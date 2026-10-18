@@ -57,6 +57,15 @@ const SITE = {
       ]
     },
     {
+      label: "Week 2",
+      items: [
+        { id: "week2-study-guide", num: "★", title: "Comprehensive Study Guide", file: "week2-study-guide.html" },
+        { id: "week2-acid-base-balance", num: "1", title: "Acid-Base Balance", file: "week2-acid-base-balance.html" },
+        { id: "week2-abg-interpretation", num: "2", title: "ABGs &amp; ABG Interpretation", file: "week2-abg-interpretation.html" },
+        { id: "week2-big-picture-overview", num: "3", title: "Big Picture Overview", file: "week2-big-picture-overview.html" },
+      ]
+    },
+    {
       label: "Exam Prep",
       items: [
         { id: "must-know",       num: "1", title: "Must Know Quick Reference", file: "must-know.html" },
