@@ -1524,6 +1524,447 @@ window.QUIZ_BANK = {
         ],
         "eaq": []
       }
+    },
+    {
+      "id": "week4-als-gbs",
+      "label": "ALS &amp; Guillain-Barré Syndrome",
+      "week": 4,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "Four clients at a neurology clinic each report new, slowly progressive hand weakness. Based on the known ALS risk factors, which client's profile places them at highest risk for ALS?",
+            "options": [
+              "A 34-year-old man whose father was diagnosed with the familial form of ALS",
+              "A 63-year-old man whose mother was diagnosed with the familial form of ALS",
+              "A 63-year-old woman with no family history who had a GI infection weeks ago",
+              "A 78-year-old woman with no family history who had Guillain-Barré years ago"
+            ],
+            "answer": 1,
+            "rationale": "Correct: ALS is typically diagnosed between 40 and 70 and peaks around 60 to 69, is diagnosed more often in males, and has a familial form with a genetic mutation that accounts for about 10% of diagnoses; the 63-year-old man with a familial history has all three. Incorrect: The 34-year-old man shares the sex and family history but is below the typical diagnosis range. A GI infection weeks earlier is a Guillain-Barré trigger, not an ALS risk factor, and a past episode of Guillain-Barré is not listed as an ALS risk factor; both women also lack the male and familial risk.",
+            "topic": "ALS &amp; Guillain-Barré Syndrome",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "During a teaching session on ALS, a student asks why the excitotoxicity hypothesis is the current working hypothesis even though the cause of ALS is unknown. Which explanation by the nurse is accurate?",
+            "options": [
+              "Low glutamate, an inhibitory neurotransmitter, was found in the CSF, and a drug that raises glutamate improves survival.",
+              "Autoantibodies to glutamate were found in the CSF, and a drug that suppresses these antibodies improves survival.",
+              "Excess glutamate was found in the CSF, and a drug that increases glutamate receptor activity improves survival.",
+              "Elevated glutamate, an excitatory neurotransmitter, was found in the CSF, and a drug that reduces it improves survival."
+            ],
+            "answer": 3,
+            "rationale": "Correct: The excitotoxicity hypothesis holds that excessive levels of glutamate, an excitatory neurotransmitter, start a series of events that eventually kill the neuron. It came from finding elevated glutamate in the CSF of people with ALS and from riluzole, which reduces glutamate, improving survival. Incorrect: Glutamate is excitatory, not inhibitory, and the finding was too much glutamate, not too little. Autoantibodies describe the demyelination of Guillain-Barré, not ALS. Increasing glutamate receptor activity is the opposite of riluzole's action, which blocks glutamate receptor sites.",
+            "topic": "ALS &amp; Guillain-Barré Syndrome",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client diagnosed with ALS two years ago is seen at a home visit. The client has new constipation, trouble sleeping, slower speech, and says, \"I get winded just talking now.\" Which finding should the nurse address first?",
+            "options": [
+              "The client's new breathlessness during speech",
+              "The new constipation along with reduced mobility",
+              "The slowed speech and difficulty speaking",
+              "The trouble sleeping through the night"
+            ],
+            "answer": 0,
+            "rationale": "Correct: As ALS progresses, breathing becomes the main issue: ALS paralyzes the breathing muscles, and respiratory failure is why people with ALS die. New breathlessness signals that the weakness is reaching the respiratory muscles. Incorrect: Constipation (from immobility, diet and muscle weakness), difficulty speaking and sleep problems are all expected as ALS progresses and need care, but none is the cause of death the way respiratory muscle failure is.",
+            "topic": "ALS &amp; Guillain-Barré Syndrome",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with ALS who started riluzole eight weeks ago reports mild nausea and occasional dizziness. The client's spouse says, \"As long as the pills are stopping the disease, the nausea is worth it.\" Which response by the nurse is most accurate?",
+            "options": [
+              "\"Riluzole halts the loss of motor neurons, so the nausea is a reasonable trade for stopping progression.\"",
+              "\"Nausea and dizziness signal liver toxicity, so riluzole must be stopped before the next scheduled dose.\"",
+              "\"It may slow decline for about 6 months to a year, and liver function will be checked for hepatotoxicity.\"",
+              "\"Riluzole reverses existing muscle weakness, and the nausea usually fades once the lost function has returned.\""
+            ],
+            "answer": 2,
+            "rationale": "Correct: Riluzole, the only FDA-approved drug for ALS, is a glutamate inhibitor that prolongs survival and slows the deterioration of function, but not by long: about 6 months to a year at most. It is hepatotoxic, so liver function is watched. Incorrect: Riluzole does not stop or reverse the disease, so the spouse's belief needs correcting. Dizziness, GI upset, nausea and vomiting are listed side effects in their own right; they are not described as signs of liver toxicity that require stopping the drug.",
+            "topic": "ALS &amp; Guillain-Barré Syndrome",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A nursing student caring for one client with ALS and another with Guillain-Barré syndrome (GBS) is asked to compare what is damaged in each disorder. Which comparison is accurate?",
+            "options": [
+              "ALS: upper and lower motor neurons degenerate. GBS: autoantibodies damage the myelin sheath of peripheral nerves.",
+              "ALS: autoantibodies damage myelin in the CNS. GBS: upper and lower motor neurons die from excess glutamate.",
+              "ALS: only lower motor neurons in the spinal cord degenerate. GBS: autoantibodies damage the myelin of the CNS.",
+              "ALS: sensory neurons of the cortex degenerate. GBS: motor neuron axons die while the surrounding myelin is left intact."
+            ],
+            "answer": 0,
+            "rationale": "Correct: The principal feature of ALS is degeneration of the upper and lower motor neurons, so voluntary muscles are affected; motor neuron death leads to axonal degeneration, demyelination and sclerosis. GBS is a rare autoimmune disorder in which autoantibodies damage the myelin sheath, the peripheral nervous system version of demyelination, so impulses are delayed or absent. Incorrect: Autoimmune damage belongs to GBS and glutamate excitotoxicity to ALS, so the second option swaps them. ALS involves upper as well as lower motor neurons, and CNS demyelination is multiple sclerosis, not GBS. GBS damages myelin rather than sparing it.",
+            "topic": "ALS &amp; Guillain-Barré Syndrome",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client is admitted with tingling and weakness of both legs that has moved up to the hips over several days. The history includes a flu vaccine six months ago, a knee surgery two years ago, and a foodborne illness with diarrhea three weeks ago. Which history item does the nurse recognize as the most likely trigger for Guillain-Barré syndrome?",
+            "options": [
+              "The flu vaccine, since vaccination is the usual trigger in most GBS cases",
+              "The knee surgery, since surgery is the usual trigger in most GBS cases",
+              "None of them, since a GBS trigger occurs within 24 hours of the onset",
+              "The recent GI infection, consistent with a Campylobacter jejuni source"
+            ],
+            "answer": 3,
+            "rationale": "Correct: GBS usually follows an infection a few days to weeks earlier, typically a respiratory or GI infection, and some cases follow bacterial infection, particularly Campylobacter jejuni, a foodborne illness. A diarrheal foodborne illness three weeks earlier fits that window. Incorrect: Flu vaccination is a rare trigger, not the usual one, and surgery triggers GBS only occasionally, days to weeks afterward rather than two years later. Triggers precede GBS by days to weeks, not only within 24 hours; 24 hours describes how fast some clients decline.",
+            "topic": "ALS &amp; Guillain-Barré Syndrome",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client recovering from Guillain-Barré syndrome now breathes without the ventilator and can lift both arms, but the legs remain weak. The daughter says, \"Her legs were the first thing affected, so they should have been the first to get better. Is something wrong?\" Which response by the nurse is most accurate?",
+            "options": [
+              "\"The legs were affected first, so this delay suggests a relapse; I will report it to the provider.\"",
+              "\"Strength usually comes back from the top down, so the legs are expected to recover last.\"",
+              "\"Weak legs at this stage mean she will not return to baseline function, as with most clients.\"",
+              "\"This shows the weakness is now moving downward, which signals a second episode of GBS.\""
+            ],
+            "answer": 1,
+            "rationale": "Correct: GBS symptoms usually start in the lower extremities and ascend, and recovery goes the opposite direction: strength returns from the top down, upper body and lungs first, then the legs. This client's pattern is expected. Incorrect: The order does not suggest a relapse; relapses of weakness and tingling occur in about 3% of people many years later. About 75% of people return to baseline function, so persistent leg weakness during recovery does not mean she will not. Top-down return of strength is recovery, not new descending weakness.",
+            "topic": "ALS &amp; Guillain-Barré Syndrome",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "The nurse receives report on two clients newly diagnosed with Guillain-Barré syndrome. Client A noticed tingling in the feet two weeks ago and now has weakness to the knees. Client B noticed tingling in the feet this morning and now has weakness of the thighs and trunk. Which client should the nurse assess first, and why?",
+            "options": [
+              "Client A, because two weeks of progression means more myelin is destroyed and recovery will take much longer",
+              "Client A, because slowly worsening weakness is the pattern most likely to need a tracheostomy later",
+              "Client B, because rapid decline over 24 hours may soon involve the breathing muscles and need intubation",
+              "Client B, because weakness that started in the feet and reached the trunk is a descending GBS pattern"
+            ],
+            "answer": 2,
+            "rationale": "Correct: Most clients worsen over hours to weeks, but some decline rapidly over 24 hours and may end up intubated on a ventilator. The concern is the ascending weakness reaching the breathing muscles, causing respiratory insufficiency and respiratory failure; Client B's weakness has climbed to the trunk within hours. Incorrect: Duration alone does not make Client A the priority, and a tracheostomy is described after weeks of ventilation, not as a result of slow progression. Feet-to-trunk spread is the ascending pattern, not a descending one.",
+            "topic": "ALS &amp; Guillain-Barré Syndrome",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with Guillain-Barré syndrome is receiving high-dose IV immunoglobulin (IVIG) and high-dose steroids. Which statement by the client indicates an accurate understanding of the treatment and expected outcome?",
+            "options": [
+              "\"The IVIG should cure the GBS, so I shouldn't have any weakness once this course is finished.\"",
+              "\"These won't cure GBS, but they can shorten it, and most people get back to their usual function.\"",
+              "\"My steroid dose will stay just as high for months after I recover to keep the GBS from coming back.\"",
+              "\"Most people have GBS more than once, so I'll need regular IVIG to keep it from coming back.\""
+            ],
+            "answer": 1,
+            "rationale": "Correct: GBS has no cure; the goal is to manage severity and speed recovery. In the acute phase, steroids and IVIG shorten the severity and duration of symptoms, and high-dose IVIG can shorten hospital stays. About 95% survive and 75% return to baseline function. Incorrect: IVIG does not cure GBS, and 25 to 30% have residual weakness after about 3 years. Steroids are given at a high dose and titrated down as the client recovers, not kept high afterward. Most people get GBS only once; some have recurrences.",
+            "topic": "ALS &amp; Guillain-Barré Syndrome",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with Guillain-Barré syndrome has weakness from the feet to the hips, decreased sensation in both legs, and difficulty chewing. Which actions should the nurse include in the plan of care? Select all that apply.",
+            "options": [
+              "Implement fall precautions before the client gets out of bed",
+              "Monitor liver function tests while the client receives IVIG",
+              "Inspect the feet and legs for injuries the client may not feel",
+              "Reassure the client that bladder control will not be affected by GBS",
+              "Assess the client's ability to swallow before oral intake",
+              "Expect new weakness to begin in the face and move downward"
+            ],
+            "answers": [
+              0,
+              2,
+              4
+            ],
+            "rationale": "Correct: GBS causes uncoordinated movements, loss of strength and difficulty walking, so clients are a high fall risk. Decreased sensation means clients may not notice injury, so the nurse inspects for it. Problems breathing, swallowing and chewing create an aspiration risk, so swallowing is assessed before oral intake. Incorrect: Hepatotoxicity and liver function monitoring belong to riluzole for ALS, not IVIG. Loss of bowel and bladder control is a GBS manifestation, so that reassurance is wrong. GBS weakness usually ascends from the lower extremities; it does not typically begin in the face and descend.",
+            "topic": "ALS &amp; Guillain-Barré Syndrome",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
+    },
+    {
+      "id": "week4-neuro-infections",
+      "label": "Neuro Infectious Diseases",
+      "week": 4,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "A 19-year-old college student is admitted from a dormitory with fever, a throbbing headache, and nuchal rigidity. The provider orders blood cultures, a lumbar puncture, and IV ceftriaxone and vancomycin. The lumbar puncture will be delayed about 2 hours because the procedure room is in use. Which action should the nurse take?",
+            "options": [
+              "Hold both antibiotics so the CSF sample is not altered before it is cultured",
+              "Give the ceftriaxone now and hold the vancomycin until the CSF results return",
+              "Start IV acyclovir alone until the CSF results show whether the cause is bacterial",
+              "Give both antibiotics now instead of waiting for the CSF sample to be drawn"
+            ],
+            "answer": 3,
+            "rationale": "Correct: Suspected bacterial meningitis can kill within a matter of hours, so antibiotics are given as soon as possible and are not held for any reason, including a delayed lumbar puncture. Incorrect: Holding the antibiotics to protect the CSF sample is exactly the delay the lecture warns against. Splitting the regimen leaves out vancomycin, which covers a MRSA form. Acyclovir is given in case the cause is viral, to prevent herpetic encephalitis; it is an addition to the antibiotics, not a substitute for them.",
+            "topic": "Neuro Infectious Diseases",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A nurse is observing a nursing student assess a client with suspected meningitis. Which entry in the student's documentation reflects a test that was performed and interpreted correctly?",
+            "options": [
+              "Supine, hand under skull base, neck flexed; hips and knees flexed: positive Brudzinski",
+              "Supine, hand under skull base, neck flexed; reported neck pain only: positive Kernig",
+              "Supine, bent leg straightened toward ceiling; hips and knees flexed: positive Brudzinski",
+              "Seated, hip and knee at 90 degrees, leg straightened with pain: positive Kernig sign"
+            ],
+            "answer": 0,
+            "rationale": "Correct: For the Brudzinski sign the client is supine, the nurse places a hand under the base of the skull and flexes the neck; a positive result is flexion of the hips and knees to reduce the pain of meningeal irritation. Incorrect: Flexing the neck is the Brudzinski maneuver, not the Kernig. Straightening the bent leg toward the ceiling is the Kernig maneuver, and its positive result is pain, so labeling it Brudzinski mixes the two tests. The Kernig sign is done with the client supine, not seated.",
+            "topic": "Neuro Infectious Diseases",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A nurse is reviewing meningitis prevention with parents at a school health fair. Which statement by a parent indicates correct understanding?",
+            "options": [
+              "\"Antibiotics work quickly now, so the vaccine is optional for my healthy 12-year-old.\"",
+              "\"My daughter got her dose at age 11, so she will not need another one at age 16.\"",
+              "\"My son has no spleen, so he may need a different version of the meningitis vaccine.\"",
+              "\"The meningitis vaccine is one shot that also protects against viral meningitis.\""
+            ],
+            "answer": 2,
+            "rationale": "Correct: A different version of the vaccine is given to people who are immunocompromised or have no spleen. Incorrect: Vaccines are the best prophylaxis, and bacterial meningitis can kill within hours even with treatment, so the vaccine is not optional. The first dose around age 11 or 12 is followed by a booster around 16. The vaccines listed target bacteria (meningococcus, pneumococcus and H. influenzae), not viral causes.",
+            "topic": "Neuro Infectious Diseases",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with bacterial meningitis is receiving IV ceftriaxone, IV vancomycin, a steroid, and an anti-seizure medication. The client has not had a seizure. The spouse asks why each drug is needed. Which explanation by the nurse is accurate?",
+            "options": [
+              "\"The steroid is given mainly to help the antibiotics clear the bacteria faster.\"",
+              "\"This medicine is given because swelling and pressure can trigger convulsions.\"",
+              "\"The vancomycin is added because the infection could turn out to be viral instead.\"",
+              "\"The steroid replaces vancomycin if the bacteria turn out to be a MRSA form.\""
+            ],
+            "answer": 1,
+            "rationale": "Correct: Anti-seizure medications are often given during the acute phase of meningitis because increased ICP and inflammation raise the risk of seizures, which occur in about 30% of cases, so a seizure does not have to happen first. Incorrect: Steroids are given to reduce inflammation, not to kill bacteria. Vancomycin is the antibiotic used for a MRSA form; acyclovir is the drug given in case the cause is viral. A steroid does not replace vancomycin for MRSA.",
+            "topic": "Neuro Infectious Diseases",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client admitted with fever, headache, and severe photophobia was started on IV antibiotics and IV acyclovir. The CSF results now show the cause is not viral. The client asks why the acyclovir was started. Which response by the nurse is accurate?",
+            "options": [
+              "\"It also treats the bacteria, so it will continue along with the antibiotics.\"",
+              "\"It lowers the pressure in the skull, so it will continue until the pressure drops.\"",
+              "\"It prevents seizures in the acute phase, so it will continue until discharge.\"",
+              "\"It guarded against a deadly herpes brain infection, so it can now be stopped.\""
+            ],
+            "answer": 3,
+            "rationale": "Correct: Acyclovir is given in case the cause is viral, to prevent herpetic encephalitis, which is deadly, and it is stopped once the CSF results show the cause is not viral. Incorrect: Acyclovir does not treat bacteria; ceftriaxone and vancomycin do. It is not used to reduce intracranial pressure. Seizure prevention during the acute phase is the role of anti-seizure medications, not acyclovir.",
+            "topic": "Neuro Infectious Diseases",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A college student is diagnosed with meningococcal meningitis in late winter. Her roommate, who shares a small dorm room with her, feels well. Which statement by the roommate indicates a need for further teaching?",
+            "options": [
+              "\"Sharing her water bottle was a risk, because saliva can carry the bacteria.\"",
+              "\"Living in a crowded dorm during winter put both of us at higher risk.\"",
+              "\"I feel completely fine, so I cannot be carrying it or pass it to anyone.\"",
+              "\"Her sinus infection last week may have come before the meningitis.\""
+            ],
+            "answer": 2,
+            "rationale": "Correct: Some carriers of meningococcal bacteria never develop the disease but can still pass it on, so feeling well does not rule out spreading it. Incorrect: Contact with contaminated saliva or respiratory secretions is a route of spread, so the water-bottle statement is accurate. Meningitis typically occurs in fall or winter and causes outbreaks where large groups live and sleep together, such as dorms. It typically follows otitis or sinusitis.",
+            "topic": "Neuro Infectious Diseases",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with bacterial meningitis becomes increasingly drowsy and begins vomiting. Which explanation best links these new findings to the disease process?",
+            "options": [
+              "Neutrophil inflammation causes brain edema and thick CSF, and pressure rises in a closed skull",
+              "Bacteria attached in the nasopharynx cause postnasal drainage that leads to vomiting and fatigue",
+              "Bacteria infect the dura mater first, and the tough fibrous layer is pressing on the brainstem",
+              "The infection thins the CSF so it drains away too fast, which lowers pressure around the brain"
+            ],
+            "answer": 0,
+            "rationale": "Correct: Large numbers of neutrophils are recruited, the inflammation causes brain edema, and the exudate thickens the CSF and can impair its flow; the adult skull is a closed system, so intracranial pressure rises, causing nausea, vomiting and decreased consciousness. Incorrect: The nasopharynx is only the entry point before the bacteria cross into the bloodstream. Infection starts in the arachnoid mater and the CSF of the subarachnoid space, not the dura. The exudate thickens CSF rather than thinning it, and the problem is increased, not decreased, pressure.",
+            "topic": "Neuro Infectious Diseases",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with herpes simplex virus 1 encephalitis is receiving IV acyclovir. The client's daughter says, \"Now that she is on the antiviral, she should recover without any lasting brain problems.\" Which response by the nurse is accurate?",
+            "options": [
+              "\"Yes, acyclovir prevents nerve complications as long as it is started early enough.\"",
+              "\"It improves her chance of survival, but she may still have lasting nerve effects.\"",
+              "\"Acyclovir works on all encephalitis viruses, so her outlook is quite favorable.\"",
+              "\"This form is mild like viral meningitis, so lasting effects are very unlikely.\""
+            ],
+            "answer": 1,
+            "rationale": "Correct: In herpetic encephalitis acyclovir reduces mortality but does not necessarily reduce neurological complications. Incorrect: Claiming acyclovir prevents complications overstates its effect. Acyclovir is used for the HSV type in particular and is not effective on other viruses. Herpetic encephalitis is very severe with rapidly appearing manifestations, unlike viral meningitis, which is relatively mild.",
+            "topic": "Neuro Infectious Diseases",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with a long-standing untreated tooth infection reports headache, fever, and vomiting, and is confused with a new visual field defect. CT shows a walled lesion in the temporal lobe with a midline shift. Which plan should the nurse anticipate?",
+            "options": [
+              "Draining the collection to relieve pressure, then putting antibiotics into the area",
+              "IV acyclovir until the CSF results show the cause is not herpes simplex virus",
+              "Lumbar puncture first, with antibiotics held until the culture identifies the cause",
+              "Oral antibiotics for the tooth infection, with imaging repeated after the course"
+            ],
+            "answer": 0,
+            "rationale": "Correct: The findings fit a brain abscess: a tooth source near the brain, meningitis-like symptoms with signs of increased ICP, a temporal lobe location causing a visual field defect, and visible abscess walls with a midline shift. Treatment is to drain the abscess to reduce pressure in the closed skull, lowering the risk of secondary injury, and then put antibiotics into the area. Incorrect: Acyclovir targets HSV and is not effective on the streptococci and Staphylococcus aureus that cause abscesses. Holding antibiotics is not part of the lecture's plan. Oral antibiotics alone leave the pus and pressure in place.",
+            "topic": "Neuro Infectious Diseases",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "Two clients in the emergency department both have fever, headache, and nuchal rigidity. Which additional findings would the nurse recognize as pointing toward bacterial rather than viral meningitis? Select all that apply.",
+            "options": [
+              "A purple rash on the trunk that does not fade when a glass is pressed on it",
+              "Severe photophobia along with a throbbing headache and a change in mental status",
+              "Cool, dusky fingertips suggesting small vessels are blocked by tiny emboli",
+              "A lumbar puncture showing an elevated white cell count in the CSF",
+              "Pain when the chin is tucked to the chest, with resistance to neck flexion"
+            ],
+            "answers": [
+              0,
+              2,
+              3
+            ],
+            "rationale": "Correct: A non-blanchable petechial or purpuric rash (it does not fade under a pressed glass) is associated with bacterial meningitis. Bacterial meningitis can cause septic emboli that lodge in capillaries and block blood flow, threatening fingers and limbs. Viral meningitis often shows no elevated white cell count in the CSF, so an elevated count points toward bacterial. Incorrect: Photophobia, throbbing headache and mental status change are general meningitis manifestations that do not separate the two forms. Pain on tucking the chin is nuchal rigidity, part of the classic triad both clients already have.",
+            "topic": "Neuro Infectious Diseases",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
+    },
+    {
+      "id": "week4-stroke",
+      "label": "TIA, Stroke &amp; Hemorrhage",
+      "week": 4,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "A client's right-sided arm heaviness and facial numbness resolved 40 minutes after onset, before arrival in the ED. The workup shows no acute infarction. The client says, \"It's gone and nothing was damaged, so I can stop worrying about it.\" Which response by the nurse is most accurate?",
+            "options": [
+              "\"Your stroke risk is higher now, mostly this first month; if it happens again, come straight to the ED.\"",
+              "\"With no infarction found, your stroke risk returns to your usual level once the symptoms are fully gone.\"",
+              "\"A repeat episode would likely affect a different area, so watch mainly for symptoms you have not had.\"",
+              "\"Symptoms that clear in under 24 hours point away from blood flow, so a facial nerve problem is likelier.\""
+            ],
+            "answer": 0,
+            "rationale": "Correct: This fits a TIA: a transient episode of neurologic dysfunction lasting less than 24 hours with no acute infarction and no residual effects. After a TIA the client is at increased risk for a stroke, especially within the first month, and is taught to go to the ED if another TIA is suspected because it might be a full-blown stroke. Incorrect: The absence of infarction does not remove the raised stroke risk. Recurrent TIAs usually produce the same symptoms each time, not new ones. Bell's palsy is a TIA mimic, but it recovers slowly and needs treatment, whereas abrupt, rapid recovery is typical of a TIA.",
+            "topic": "TIA, Stroke &amp; Hemorrhage",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A 42-year-old client with no heart rhythm problems and no carotid plaque has an ischemic stroke while hospitalized for a deep vein thrombosis in the leg. The family asks how a clot from the leg could reach the brain instead of the lungs. Which explanation by the nurse is most accurate?",
+            "options": [
+              "\"Clots from the leg usually reach the brain by passing directly up through the carotid arteries.\"",
+              "\"Pooled blood in the quivering upper chambers formed a new clot that then traveled to the brain.\"",
+              "\"An opening between the two upper chambers can let a venous clot cross into the left side.\"",
+              "\"The leg clot settled on the mitral valve as an infected growth that later broke off as an embolus.\""
+            ],
+            "answer": 2,
+            "rationale": "Correct: With a patent foramen ovale, a birth-defect hole in the septum between the atria lets a venous clot such as a piece of a DVT pass from the right atrium to the left atrium instead of going to the lungs as a PE; the left ventricle then sends it to the brain. Incorrect: A venous clot cannot reach the carotids without first crossing to the left side of the heart. Pooled blood in quivering atria describes atrial fibrillation, which this client does not have. Valve vegetation comes from valve infection, not from a DVT.",
+            "topic": "TIA, Stroke &amp; Hemorrhage",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client is evaluated after a TIA. Carotid Doppler studies show no significant buildup, and the CT shows no hemorrhage. An echocardiogram shows a clot on the left side of the heart, and the ECG shows little quivering lines in place of P waves. Which treatment should the nurse anticipate to reduce this client's risk of a full stroke?",
+            "options": [
+              "Carotid endarterectomy to remove the plaque that is reducing blood flow to the brain",
+              "Heparin or warfarin to prevent coagulation, given the cardiac source of the clot",
+              "Carotid angioplasty with a filter to catch plaque pieces that break free",
+              "Clopidogrel alone, since keeping platelets apart dissolves the existing clot"
+            ],
+            "answer": 1,
+            "rationale": "Correct: TIA treatment depends on the cause. The echocardiogram is used to look for a cardiac cause, such as a clot on the left side of the heart, and the ECG pattern fits atrial fibrillation. If the TIA is cardiac-related, heparin or warfarin is given to prevent coagulation. Incorrect: Endarterectomy and angioplasty treat carotid narrowing or stenosis, and the Doppler showed no significant buildup. Clopidogrel is an antiplatelet that keeps platelets from sticking together; antiplatelets prevent clots from forming but do not dissolve an existing clot.",
+            "topic": "TIA, Stroke &amp; Hemorrhage",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client arrives by ambulance with left arm drift, slurred speech and facial asymmetry. The last known normal was 70 minutes ago. The Glasgow Coma Scale score is 7, and respirations are slow and shallow. A stroke alert has been called. Which action is the nurse's first priority?",
+            "options": [
+              "Take the client directly to CT, bypassing a room, to rule out hemorrhage within the treatment window",
+              "Check the blood sugar first, because hypoglycemia can mimic a stroke and change the whole plan",
+              "Confirm the exact time of the last known normal with the family before any other intervention",
+              "Prepare for intubation, since the GCS and breathing raise concern for airway protection"
+            ],
+            "answer": 3,
+            "rationale": "Correct: Stroke treatment begins with the ABCs: can the client maintain the airway, are they breathing, is there a pulse? A GCS below 8 raises concern about airway protection, so the client is intubated, and stroke clients may also have decreased respiratory drive, which fits the slow, shallow breathing. Incorrect: A rapid CT without contrast and a blood sugar check are both part of the stroke protocol, but they follow attention to airway and breathing. The last known normal matters for the treatment time frame, but it is already documented and does not outrank an unprotected airway.",
+            "topic": "TIA, Stroke &amp; Hemorrhage",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client who takes warfarin for atrial fibrillation presents with the worst headache of their life and a rapidly declining level of consciousness. A noncontrast CT shows a white area within the brain tissue. Which plan should the nurse anticipate?",
+            "options": [
+              "Alteplase to reperfuse the penumbra, given within 3 hours of symptom onset",
+              "Surgical evacuation of the blood within the brain tissue to relieve pressure on the brain",
+              "A reversal agent for the warfarin, blood pressure control and measures to limit ICP",
+              "Heparin to keep a new clot from forming while the warfarin is held"
+            ],
+            "answer": 2,
+            "rationale": "Correct: Blood shows up white on CT, and bleeding within the brain tissue is a hemorrhagic stroke. Management is to reverse anticoagulation (is there a reversal agent for the client's medications?), manage hypertension as the likely cause, and manage ICP by elevating the head of the bed, giving antipyretics for fever and keeping the head neutral. Incorrect: Thrombolytics and the 3-hour penumbra goal apply to ischemic stroke; a thrombolytic or anticoagulant given to a hemorrhagic stroke makes the bleeding worse and could kill the client, which also rules out heparin. Blood bleeding into the brain tissue cannot be evacuated; evacuation is the treatment for epidural and subdural bleeds.",
+            "topic": "TIA, Stroke &amp; Hemorrhage",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client struck their head on a cabinet three days ago and felt fine afterward. Today the family reports new confusion and drowsiness. There was no skull fracture at the time. Which interpretation by the nurse best fits this history?",
+            "options": [
+              "A subdural bleed, with venous blood that collected slowly; removing the blood may relieve the pressure",
+              "An epidural bleed, with arterial blood from the injury; blood collecting in this space cannot be removed",
+              "A subarachnoid bleed from a ruptured aneurysm, which would be confirmed by clear spinal fluid",
+              "A hemorrhagic stroke within the brain tissue, where removing the blood will relieve the pressure"
+            ],
+            "answer": 0,
+            "rationale": "Correct: Subdural bleeds lie below the dura and tend to be venous, from injury to bridging veins; venous blood may accumulate slowly, so a client hits their head, seems fine, and symptoms appear later. Treatment for epidural and subdural bleeds is to evacuate the collecting blood and relieve pressure on the brain. Incorrect: Epidural bleeds usually occur with skull fractures and tend to be arterial, and they can be evacuated. A subarachnoid bleed causes bloody, not clear, CSF. A hemorrhagic stroke is bleeding in the brain tissue itself, which cannot be evacuated.",
+            "topic": "TIA, Stroke &amp; Hemorrhage",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with a sudden severe headache, nuchal rigidity and photophobia has a lumbar puncture about 12 hours after symptom onset. The first tube has a small amount of blood, and each later tube is progressively clearer until the last tube is clear and slightly yellow. How should the nurse interpret these results?",
+            "options": [
+              "Any blood in the spinal fluid confirms a subarachnoid bleed, so the team should prepare for clipping",
+              "Fluid that clears across the tubes points to a subdural bleed, since venous blood clears over time",
+              "A puncture 12 hours after onset is too early, so the test should be repeated before drawing conclusions",
+              "Clearing fluid fits blood from needle trauma; a subarachnoid bleed would keep the fluid bloody"
+            ],
+            "answer": 3,
+            "rationale": "Correct: Normal CSF is clear or slightly yellow. The first tube may have a little blood from needle trauma, but it should clear; with a subarachnoid bleed, the fluid stays bloody. Incorrect: A small amount of blood in the first tube alone does not confirm a subarachnoid bleed. Subdural bleeds lie below the dura and are not identified by CSF clearing. A subarachnoid hemorrhage is identified by lumbar puncture about 12 hours after onset, so this timing is appropriate, not too early.",
+            "topic": "TIA, Stroke &amp; Hemorrhage",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client is in the second day after coiling of a ruptured berry aneurysm that caused a subarachnoid hemorrhage. Which statement by the nurse about the plan of care is accurate?",
+            "options": [
+              "\"The blood pressure is lowered as far as possible, since any pressure risks more bleeding.\"",
+              "\"Blood pressure is kept within set limits: low enough to prevent bleeding, high enough to perfuse.\"",
+              "\"Fluids are restricted to keep the client on the dry side, which limits swelling of the brain.\"",
+              "\"An anticonvulsant is held unless a seizure occurs, since the aneurysm itself has now been treated.\""
+            ],
+            "answer": 1,
+            "rationale": "Correct: Subarachnoid hemorrhage management includes bed rest and blood pressure control that avoids big fluctuations: managed to prevent further bleeding but high enough to perfuse the brain, often with very specific parameters for the nurse. Incorrect: Lowering pressure as far as possible would under-perfuse the brain. Triple H keeps the brain perfused with pressors, colloids, a hypervolemic state and expected hemodilution, the opposite of fluid restriction. An anticonvulsant is part of management because blood irritates the brain and raises seizure risk; treating the aneurysm does not remove that blood.",
+            "topic": "TIA, Stroke &amp; Hemorrhage",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "Two hours after alteplase was started for an ischemic stroke, the client develops a severe headache, new vomiting and a falling level of consciousness. Blood pressure has risen. Which interpretation and action by the nurse are most appropriate?",
+            "options": [
+              "The ischemic core is expanding as expected; continue the infusion to save the penumbra",
+              "A new clot is forming without heparin; request a heparin bolus to halt the progression",
+              "Bleeding may have occurred in the reperfused ischemic area; report it at once for a CT",
+              "Low blood sugar is mimicking a worsening stroke; recheck glucose and continue the drug"
+            ],
+            "answer": 2,
+            "rationale": "Correct: Alteplase increases the risk of intracranial bleeding. Hemorrhagic conversion occurs when, after an ischemic stroke, blood extravasates across a disrupted blood-brain barrier into the brain tissue once reperfusion is established, naturally or as a result of therapy; a sudden severe headache and a rapid change in level of consciousness are hemorrhage presentations, and blood shows up white on CT. Incorrect: Continuing a fibrinolytic in the face of possible bleeding could make the hemorrhage worse. Heparin prevents new clots but would worsen a bleed. Hypoglycemia can mimic a stroke, but severe headache and falling consciousness during alteplase point to bleeding first.",
+            "topic": "TIA, Stroke &amp; Hemorrhage",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A nurse is planning care for a client in the first week after a large ischemic stroke affecting the right side of the brain. Which expectations or actions are appropriate? Select all that apply.",
+            "options": [
+              "Expect the client may neglect or ignore the left side of the body",
+              "Expect the limp left-sided muscles to stay limp rather than later become spastic",
+              "Expect possible loss of the left half of the visual field in both eyes",
+              "Expect memory for well-known names, such as family members, to be spared",
+              "Watch closely for depression related to disability and loss of independence",
+              "Treat poor coordination and slower reaction times as a fall risk"
+            ],
+            "answers": [
+              0,
+              2,
+              4,
+              5
+            ],
+            "rationale": "Correct: Motor and sensory deficits include neglect of body parts no longer getting sensory input, here the contralateral (left) side. Homonymous hemianopia is contralateral field blindness, a loss of up to half the vision on the same side of both visual fields, so right-brain damage affects the left field. Depression is very common from significant disabilities and loss of independence. Poor coordination and slower reaction times create fall risk. Incorrect: Flaccid contralateral muscles become spastic and then form contractures, typically within the first 6 weeks; they do not stay limp. Memory problems can include even well-known things like family members' names.",
+            "topic": "TIA, Stroke &amp; Hemorrhage",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
     }
   ],
 
@@ -1537,7 +1978,10 @@ window.QUIZ_BANK = {
     "Migraines",
     "Parkinson's Disease &amp; Parkinson's Pharmacology",
     "Myasthenia Gravis",
-    "Multiple Sclerosis"
+    "Multiple Sclerosis",
+    "ALS &amp; Guillain-Barré Syndrome",
+    "Neuro Infectious Diseases",
+    "TIA, Stroke &amp; Hemorrhage"
   ]
 };
 
