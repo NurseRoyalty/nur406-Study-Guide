@@ -77,6 +77,16 @@ const SITE = {
       ]
     },
     {
+      label: "Week 4",
+      items: [
+        { id: "week4-study-guide", num: "★", title: "Comprehensive Study Guide", file: "week4-study-guide.html" },
+        { id: "week4-als-gbs", num: "1", title: "ALS &amp; Guillain-Barré Syndrome", file: "week4-als-gbs.html" },
+        { id: "week4-neuro-infections", num: "2", title: "Neuro Infectious Diseases", file: "week4-neuro-infections.html" },
+        { id: "week4-stroke", num: "3", title: "TIA, Stroke &amp; Hemorrhage", file: "week4-stroke.html" },
+        { id: "week4-big-picture-overview", num: "4", title: "Big Picture Overview", file: "week4-big-picture-overview.html" },
+      ]
+    },
+    {
       label: "Exam Prep",
       items: [
         { id: "must-know",       num: "1", title: "Must Know Quick Reference", file: "must-know.html" },
