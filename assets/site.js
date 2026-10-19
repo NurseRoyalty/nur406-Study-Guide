@@ -66,6 +66,17 @@ const SITE = {
       ]
     },
     {
+      label: "Week 3",
+      items: [
+        { id: "week3-study-guide", num: "★", title: "Comprehensive Study Guide", file: "week3-study-guide.html" },
+        { id: "week3-migraines", num: "1", title: "Migraines", file: "week3-migraines.html" },
+        { id: "week3-parkinsons", num: "2", title: "Parkinson's Disease &amp; Parkinson's Pharmacology", file: "week3-parkinsons.html" },
+        { id: "week3-myasthenia-gravis", num: "3", title: "Myasthenia Gravis", file: "week3-myasthenia-gravis.html" },
+        { id: "week3-multiple-sclerosis", num: "4", title: "Multiple Sclerosis", file: "week3-multiple-sclerosis.html" },
+        { id: "week3-big-picture-overview", num: "5", title: "Big Picture Overview", file: "week3-big-picture-overview.html" },
+      ]
+    },
+    {
       label: "Exam Prep",
       items: [
         { id: "must-know",       num: "1", title: "Must Know Quick Reference", file: "must-know.html" },
