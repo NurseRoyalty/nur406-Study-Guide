@@ -937,6 +937,593 @@ window.QUIZ_BANK = {
         ],
         "eaq": []
       }
+    },
+    {
+      "id": "week3-migraines",
+      "label": "Migraines",
+      "week": 3,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "A client reports a headache that has lasted 10 hours. The pain is on both sides of the head, throbbing, rated 7 out of 10, and worse when climbing stairs. The client has kept the curtains closed all day because light is unbearable, and denies nausea or vomiting. How should the nurse interpret these findings against the diagnostic criteria for migraine?",
+            "options": [
+              "They meet the criteria: more than two pain features are present plus one associated symptom, even though the pain is not one-sided.",
+              "They do not meet the criteria, because unilateral pain is a required feature and this client's pain is felt on both sides of the head.",
+              "They do not meet the criteria, because nausea and vomiting must be present along with light or sound sensitivity.",
+              "They do not meet the criteria yet, because the headache must continue past 72 hours before a migraine can be diagnosed."
+            ],
+            "answer": 0,
+            "rationale": "Correct: A migraine headache lasts 4 to 72 hours and needs at least two of unilateral pain, throbbing pain, pain that worsens with activity, or moderate to severe pain, plus at least one of nausea and vomiting, photophobia or phonophobia. This client has throbbing, moderate to severe pain that worsens with activity, plus photophobia, and a 10-hour duration. Incorrect: Unilateral pain is characteristic but is only one of the 'at least two' features, so bilateral pain does not rule it out. Nausea and vomiting is one option in the 'at least one' group, not a requirement when photophobia is present. Seventy-two hours is the upper end of the 4-to-72-hour range, not a minimum.",
+            "topic": "Migraines",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client who has migraine without aura says, \"The day before a migraine I am exhausted, snappy, cannot concentrate, and I crave sweets. Since I never get auras, those warning signs can't have anything to do with my migraines.\" Which response by the nurse is most accurate?",
+            "options": [
+              "Those symptoms are an aura, so your migraine type should be changed from migraine without aura to migraine with aura instead.",
+              "Those symptoms are most likely the recovery phase of an earlier attack, which can linger for a few days afterward.",
+              "You are right that they are unrelated, because warning symptoms before the headache occur only in people with auras.",
+              "Those symptoms fit the premonitory phase, which can occur hours or days before the headache and is separate from an aura."
+            ],
+            "answer": 3,
+            "rationale": "Correct: Fatigue, irritability, loss of concentration, stiff neck and food cravings hours or days before the headache describe the premonitory phase, which is a different phase from the aura. Incorrect: An aura is visual (shimmering lights, flashing spots, blind spots), sensory (numbness, tingling) or motor (weakness, speech or coordination difficulty), so these symptoms do not reclassify the client as migraine with aura. The recovery phase follows the headache and brings irritability, fatigue and depression, but the client describes these symptoms before a new attack, and food cravings and loss of concentration are premonitory features. Premonitory symptoms are not limited to people who have auras; only the aura phase is.",
+            "topic": "Migraines",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "The nurse reviews two clients' headache diaries. Client A has had migraines on about 15 days of every month for the past 3 months. Client B had 6 migraines last month, each lasting about 5 hours. Which statement by the nurse is accurate?",
+            "options": [
+              "Only Client A qualifies for preventive therapy, because Client B's attacks each last less than 12 hours.",
+              "Client A meets the definition of chronic migraine, and both clients meet a criterion for preventive therapy.",
+              "Client B meets the definition of chronic migraine, because the attacks occur more than 4 times each month.",
+              "Neither client has chronic migraine yet, because that requires about 15 days a month for at least 6 months in a row."
+            ],
+            "answer": 1,
+            "rationale": "Correct: Chronic migraine is migraine on about 15 days a month over 3 months, which describes Client A. Preventive therapy is used for more than 4 migraines a month OR migraines lasting longer than 12 hours, so Client B's 6 attacks a month qualify even though each lasts only 5 hours, and Client A's frequency qualifies too. Incorrect: The 12-hour duration is an alternative criterion, not a requirement that must be met alongside frequency. More than 4 a month is the preventive-therapy threshold, not the chronic-migraine definition. The chronic threshold is measured over 3 months, not 6.",
+            "topic": "Migraines",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client whose migraines cluster right before and during menstruation is planning a pregnancy and asks how pregnancy is likely to affect the headaches. Which response by the nurse reflects the lecture content?",
+            "options": [
+              "Migraines tend to get worse in pregnancy, since estrogen and progesterone levels are higher than they are during a menstrual cycle.",
+              "Pregnancy is unlikely to change them, since a menstrual pattern reflects family history rather than any hormonal effect.",
+              "Migraines often decrease in pregnancy; the cyclical drop in estrogen and progesterone across the cycle is the suspected trigger.",
+              "Hormones influence only migraine with aura, so the effect of pregnancy depends on whether the client experiences an aura."
+            ],
+            "answer": 2,
+            "rationale": "Correct: Estrogen and progesterone make females more susceptible; migraines can occur more right before and during menstruation and often decrease during pregnancy and menopause. The theory is that cyclical withdrawal of these hormones over the menstrual cycle triggers migraines. Incorrect: The page says migraines often decrease, not worsen, in pregnancy. Family history is a separate risk factor and does not replace the hormonal explanation for a menstrual pattern. Nothing on the page limits the hormonal effect to migraine with aura.",
+            "topic": "Migraines",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with migraines reports an attack on Sunday afternoon. On Saturday the client slept about 15 hours, which is unusual, then skipped breakfast on Sunday during a cold, rainy morning. The client says, \"The long sleep should have protected me, so it must have been the weather.\" Which interpretation by the nurse is most accurate?",
+            "options": [
+              "Only the weather fits; catching up on sleep relieves fatigue, and fatigue is the sleep-related trigger for migraine.",
+              "Only the skipped meal fits; weather changes and sleeping longer than usual are not listed as migraine triggers.",
+              "The unusually long sleep, the missed meal and the cold, wet weather are each recognized migraine triggers.",
+              "Only the long sleep fits; a missed meal triggers migraine only when combined with alcohol or with overexertion."
+            ],
+            "answer": 2,
+            "rationale": "Correct: Sleep disturbance is a trigger in both directions, too little or too much sleep (for example 15 hours when that is not normal), and missing a meal and weather changes such as rainy, cold weather are also listed triggers. Incorrect: The client's belief that extra sleep is protective is the misconception to correct; an unusually long sleep is itself a sleep disturbance. Weather changes are on the trigger list. Missing a meal is a trigger on its own and does not require alcohol or overexertion.",
+            "topic": "Migraines",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client newly prescribed sumatriptan asks, \"How is this supposed to stop my migraine?\" Which explanation by the nurse is accurate?",
+            "options": [
+              "Released excitatory neurotransmitters dilate blood vessels; the drug constricts intracranial vessels and blocks the pain pathway.",
+              "Migraine pain comes from constricted brain vessels; the drug dilates intracranial vessels so that blood flow can return to normal.",
+              "Migraine starts with reduced neuronal depolarization; the drug stimulates the neurons back to their normal level of activity.",
+              "The drug blocks calcitonin gene-related peptide, which is the one confirmed cause of the vasodilation behind every migraine."
+            ],
+            "answer": 0,
+            "rationale": "Correct: Current theory is that increased neuronal depolarization causes hyperactivity, excitatory neurotransmitters are released, and they stimulate vasodilation, resulting in the migraine. Triptans are serotonin 1B/1D receptor agonists that promote vasoconstriction of the intracranial vessels, suppress inflammatory neuropeptides and block the pain pathway. Incorrect: The dilation option flips the mechanism; vasodilation contributes to migraine and triptans constrict. Depolarization is increased, not reduced. Blocking calcitonin gene-related peptide describes the CGRP antagonist rimegepant, not a triptan, and the page states migraine has no well-established, identifiable pathology.",
+            "topic": "Migraines",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with a history of angina presents with a moderate to severe migraine and no nausea or vomiting. Basic analgesics have not helped. Which prescription should the nurse expect to be the most appropriate choice?",
+            "options": [
+              "Subcutaneous sumatriptan, since the subcutaneous route relieves the headache the most quickly",
+              "Oral sumatriptan combined with naproxen, since the combination is more effective than either alone",
+              "Intranasal sumatriptan, since the nasal spray causes fewer side effects than the subcutaneous route",
+              "Oral rimegepant, with a review of the client's other drugs for any inhibitors or inducers of CYP"
+            ],
+            "answer": 3,
+            "rationale": "Correct: Triptans constrict blood vessels and are avoided in ischemic stroke, heart disease or angina. A CGRP antagonist such as rimegepant (Nurtec) is used when triptans are ineffective or contraindicated; it is given PO and is a CYP substrate, so inhibitors and inducers call for caution. Incorrect: Each of the other options is a true statement about a triptan route or combination, but the route does not change the vasoconstricting action, so every triptan form is avoided in a client with angina.",
+            "topic": "Migraines",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client describes a migraine that began 30 minutes ago as mild to moderate, but reports vomiting repeatedly since it started. The client plans to \"wait and see if it gets worse before taking anything.\" Which plan is most appropriate?",
+            "options": [
+              "Give a triptan alone, since severe vomiting means the migraine itself should now be treated as a severe attack.",
+              "Take a basic analgesic now, with an antiemetic such as ondansetron added for the severe vomiting.",
+              "Give an antiemetic such as promethazine alone, and hold all analgesics until the vomiting has fully settled.",
+              "Wait for the pain to peak, then take a basic analgesic, since analgesics work best once pain is at its worst."
+            ],
+            "answer": 1,
+            "rationale": "Correct: Basic analgesics (aspirin, acetaminophen, NSAIDs or a combination) are tried first for mild to moderate migraine, antiemetics such as ondansetron or promethazine are added when there is severe nausea and vomiting at any severity, and abortive therapy is more effective when given early in the headache. Incorrect: Severe vomiting calls for adding an antiemetic; it does not by itself make the migraine severe or call for a triptan alone. Antiemetics are added to symptomatic therapy, not given instead of it. Waiting for the pain to peak is the opposite of the teaching that abortive therapy works better early.",
+            "topic": "Migraines",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client who uses subcutaneous sumatriptan for migraines reports flushing and chest pressure after doses and asks about switching routes. Which client statement indicates correct understanding of the teaching?",
+            "options": [
+              "\"The tablet works the fastest of all the forms, so I will take it for my worst attacks from now on.\"",
+              "\"The tablet causes completely different side effects from the shot, so the flushing will go away.\"",
+              "\"Flushing and chest pressure mean I'm allergic, since vessel constriction would not cause them.\"",
+              "\"The nasal spray may leave a bad taste, but it tends to cause fewer side effects than the shot.\""
+            ],
+            "answer": 3,
+            "rationale": "Correct: Nasal triptans have fewer side effects than subcutaneous ones, and a bad taste is a side effect of the nasal form. Incorrect: The subcutaneous route, not the tablet, works most quickly. Oral triptans cause side effects similar to subcutaneous ones, just less often, so they are not completely different. Chest pressure, flushing, weakness and headache are expected triptan side effects that make sense for a drug that constricts blood vessels; they do not by themselves signal an allergy.",
+            "topic": "Migraines",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client who has more than 4 migraines a month is starting propranolol as preventive therapy. Which statements by the nurse are appropriate? Select all that apply.",
+            "options": [
+              "\"Take a dose as soon as you notice a headache starting, since that is when it stops the attack.\"",
+              "\"A goal is to reduce how often your attacks occur, how severe they are and how long they last.\"",
+              "\"This treatment may help your acute attacks respond better to the medicines you take for them.\"",
+              "\"Once this drug is working, you will no longer need to take any medicine at all for an acute migraine attack.\"",
+              "\"One aim is to keep your episodic attacks from progressing to chronic migraine over time.\""
+            ],
+            "answers": [
+              1,
+              2,
+              4
+            ],
+            "rationale": "Correct: The goals of preventive therapy are to reduce migraine frequency, severity and duration, improve the response to treatment of acute attacks, improve function and reduce disability, and prevent episodic migraines from becoming chronic. Incorrect: Treating a headache at onset describes abortive (symptomatic) therapy, which is most effective early; propranolol is a beta blocker listed as a preventive drug. Because one goal is a better response to acute-attack treatment, abortive medicines are still expected to be needed, so stopping them is not taught.",
+            "topic": "Migraines",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
+    },
+    {
+      "id": "week3-parkinsons",
+      "label": "Parkinson's Disease &amp; Parkinson's Pharmacology",
+      "week": 3,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "A 66-year-old client who farmed for 30 years and does not drink coffee was started on an antiemetic for persistent nausea. Two weeks later the client has a new resting tremor and slowed movements. Which statement by the nurse best reflects the expected course of these signs?",
+            "options": [
+              "They likely reflect idiopathic disease, given the client's age and years of farm work.",
+              "They will likely keep worsening, since the dopamine-producing cells are being destroyed.",
+              "They will usually go away once the drug that interferes with dopamine is stopped.",
+              "They likely reflect a familial form, which explains about 10% of primary parkinsonism."
+            ],
+            "answer": 2,
+            "rationale": "Correct: A defining event (starting a drug) preceded the symptoms, which points to secondary parkinsonism. Some antiemetics and antidepressants are its most common cause, any drug that interferes with dopamine transmission can cause it, and symptoms usually go away after the medication is stopped. Incorrect: Age, farm work and not drinking coffee are real risk factors (coffee is protective), but they are red herrings here; primary (idiopathic) disease is defined by no defining event. Progressive destruction of dopamine-producing cells describes primary disease, and the roughly 10% familial share applies to primary parkinsonism, not to drug-induced symptoms.",
+            "topic": "Parkinson's Disease &amp; Parkinson's Pharmacology",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client newly diagnosed with Parkinson's disease says, \"My muscles stay stiff and sore because my brain is now making too much dopamine.\" Which response by the nurse correctly addresses the misunderstanding?",
+            "options": [
+              "\"Too little acetylcholine is left to let your muscles relax, so they stay contracted.\"",
+              "\"Dopamine is low, so acetylcholine is relatively high and keeps muscles contracting.\"",
+              "\"Dopamine is high, and it overstimulates its excitatory receptors in your muscles.\"",
+              "\"Acetylcholine is low, so dopamine's inhibitory effects on movement go unopposed.\""
+            ],
+            "answer": 1,
+            "rationale": "Correct: Destruction of the substantia nigra lowers dopamine, creating a relative excess of acetylcholine. Acetylcholine is excitatory, so it stimulates the muscles continuously and they never relax (sustained contraction), which causes rigidity and the soreness and aches clients report. Incorrect: Every distractor flips part of the imbalance. Acetylcholine is in relative excess, not low, and dopamine is decreased, not high. Dopamine's inhibitory effects, which normally block unnecessary movements, are the ones that are lacking in Parkinson's disease.",
+            "topic": "Parkinson's Disease &amp; Parkinson's Pharmacology",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client is evaluated for a hand tremor. Which combination of findings most strongly supports a Parkinson's tremor rather than an essential tremor?",
+            "options": [
+              "The tremor worsens while buttoning a shirt, and no other neurologic findings are seen.",
+              "The tremor appears mainly while writing and eases at rest, and the gait is shuffling.",
+              "The tremor eases when the client concentrates on it, and the face is mask-like.",
+              "The tremor eases when the client reaches for a cup, and elbow flexion is jerky."
+            ],
+            "answer": 3,
+            "rationale": "Correct: A Parkinson's tremor occurs at rest and tends to improve with movement, and it comes with the other manifestations of Parkinson's, such as cogwheel rigidity (slow, jerky movement when the elbow is flexed). Incorrect: A tremor that occurs with motor function, makes fine motor tasks like buttoning very difficult, and has no other Parkinson's signs fits essential tremor. A tremor brought on by writing and easing at rest is the essential pattern even if another sign is present. A Parkinson's tremor gets worse, not better, with stress or concentration.",
+            "topic": "Parkinson's Disease &amp; Parkinson's Pharmacology",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "The spouse of a client with Parkinson's disease asks why the client now has dry, irritated eyes and drools often. Which explanation by the nurse is accurate?",
+            "options": [
+              "Automatic movements such as blinking and swallowing saliva are being lost.",
+              "Constant muscle contraction is keeping the eyelids and throat from relaxing.",
+              "The resting tremor is spreading from the hands into the face and the throat.",
+              "Lewy bodies are spreading into the brain areas that control eyes and saliva."
+            ],
+            "answer": 0,
+            "rationale": "Correct: Bradykinesia is the loss of automatic movement. Less blinking leads to dry eyes that are more susceptible to abrasion, and less automatic swallowing of saliva leads to drooling; it is arguably the major cause of disability in Parkinson's disease. Incorrect: Sustained contraction from excess acetylcholine explains rigidity and muscle aches, not lost blinking or swallowing. The tremor is a rest tremor of a body part, not the cause of these findings. Lewy bodies spreading into memory and cognition areas explain dementia and hallucinations, not dry eyes or drooling.",
+            "topic": "Parkinson's Disease &amp; Parkinson's Pharmacology",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client started levodopa-carbidopa (Sinemet) 3 weeks ago and tells the nurse, \"My tremor is no better, so this drug is not working for me and I want to stop it.\" Which response by the nurse is most appropriate?",
+            "options": [
+              "\"This sounds like wearing off; ask about taking your doses closer together.\"",
+              "\"Improvement can take several months while your dopamine level builds up.\"",
+              "\"This sounds like on-off loss; your high-protein meals may be the cause.\"",
+              "\"Few dopamine terminals are left to use it, so a new drug will be needed.\""
+            ],
+            "answer": 1,
+            "rationale": "Correct: Sinemet is one of the most effective Parkinson's drugs, but it takes several months for symptoms to improve while dopamine builds up, so clients are taught it can take up to months. Incorrect: Wearing off and on-off loss describe a drug that was working and then loses its effect; this client has not yet had time to respond. Loss of effect because fewer dopaminergic terminals survive happens as the disease progresses over long-term use, not 3 weeks after starting.",
+            "topic": "Parkinson's Disease &amp; Parkinson's Pharmacology",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client who has taken Sinemet for several years reports that each dose now controls symptoms for a shorter time, with symptoms creeping back before the next dose, even after the last dose increase. Which change does the nurse anticipate?",
+            "options": [
+              "A medication reconciliation, since this pattern points to on-off loss",
+              "Stopping the drug, since this pattern shows levodopa no longer works",
+              "Taking doses more often, or adjusting the amount in each dose",
+              "Adding vitamin B6 to strengthen and lengthen the effect of each dose"
+            ],
+            "answer": 2,
+            "rationale": "Correct: Each dose wearing off sooner and sooner, with symptoms returning gradually even as the dose is increased, is the gradual loss of effect called wearing off. It is managed with shorter dosing intervals (taking it more often) or changes in the dose amount. Incorrect: Medication reconciliation and diet teaching address the on-off phenomenon, which is an abrupt, unpredictable switch from working to not working, not a predictable gradual return of symptoms. The drug still works for part of each interval, so stopping it is not indicated. Vitamin B6 (pyridoxine) decreases levodopa's effect.",
+            "topic": "Parkinson's Disease &amp; Parkinson's Pharmacology",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client is scheduled to begin Sinemet. Today's exam shows a regular heart rhythm, mild constipation, and two raised, irregular moles on the upper back that the client says are new. Which action is the nurse's priority before the first dose?",
+            "options": [
+              "Complete a full skin assessment and report any suspicious lesions",
+              "Obtain baseline cardiac monitoring, since dysrhythmias appear at the start",
+              "Teach the client to take each dose with a high-protein snack to limit nausea",
+              "Teach that darkened sweat and urine are harmful and must be reported at once"
+            ],
+            "answer": 0,
+            "rationale": "Correct: Sinemet can activate malignant melanoma, so a good skin assessment is done before starting it to identify suspicious lesions; new, raised, irregular moles must be reported. Incorrect: Cardiac function is monitored for dysrhythmias especially when the dose has been increased over time, and the rhythm is regular today. Nausea is managed with a small amount of food, and high-protein food should be avoided because protein decreases levodopa's effect. Darkened sweat and urine are not harmful, only annoying because they can stain clothing.",
+            "topic": "Parkinson's Disease &amp; Parkinson's Pharmacology",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with advanced Parkinson's disease is being prepared to start Duopa. While reviewing the medication history, which finding should the nurse report because it creates a risk of levodopa toxicity?",
+            "options": [
+              "A vitamin B6 (pyridoxine) supplement the client takes every day",
+              "An antipsychotic recently prescribed for the client's hallucinations",
+              "A high-protein breakfast the client has eaten every morning for years",
+              "An MAOI for depression the client stopped taking 5 days ago"
+            ],
+            "answer": 3,
+            "rationale": "Correct: Duopa should not be taken within 2 weeks of an MAOI for depression because it can cause levodopa toxicity; MAOIs increase levodopa's effect to toxicity, and 5 days is inside that window. Incorrect: Vitamin B6, antipsychotics and protein are all real interactions to address in the medication reconciliation, but each decreases levodopa's effect rather than pushing it toward toxicity.",
+            "topic": "Parkinson's Disease &amp; Parkinson's Pharmacology",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "The provider is considering pramipexole (Mirapex) monotherapy for two clients recently diagnosed with Parkinson's disease. Client A is 42 and reports pins-and-needles leg discomfort at night that is relieved only by moving the legs. Client B is 45 and has a history of compulsive gambling. Which statement by the nurse is accurate?",
+            "options": [
+              "Client B's past behavior is a concern with this drug; Client A is a reasonable candidate.",
+              "Client A's leg symptoms are a concern with this drug; Client B is a reasonable candidate.",
+              "Neither is a candidate, since this drug is reserved for older clients with advanced disease.",
+              "Both are candidates, since profound orthostatic hypotension is the main risk when used alone."
+            ],
+            "answer": 0,
+            "rationale": "Correct: Pramipexole alone can cause unusual compulsive behaviors such as pathologic gambling, making it a poor choice for a client who already has compulsive behaviors. Client A is a younger client early in the disease, the usual monotherapy candidate, and the leg symptoms describe restless leg syndrome, which pramipexole also treats. Incorrect: Restless leg symptoms are a reason the drug may help, not a concern. Pramipexole is usually monotherapy in younger clients early in PD and is combined with levodopa-carbidopa as the disease advances. Really profound orthostatic hypotension is a risk when pramipexole is combined with levodopa; alone, the adverse effects are nausea, sleep attacks and compulsive behaviors.",
+            "topic": "Parkinson's Disease &amp; Parkinson's Pharmacology",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client taking oral levodopa-carbidopa will soon transition to a Duopa infusion. The nurse reviews teaching about both forms. Which client statements indicate understanding? Select all that apply.",
+            "options": [
+              "\"If my pills upset my stomach, I'll take them with a small amount of food.\"",
+              "\"I'll keep the protein in my meals low so the medication works better.\"",
+              "\"If my urine turns darker, it isn't harmful, though it can stain my clothes.\"",
+              "\"New jerky movements are harmless, so I won't need to mention them to anyone.\"",
+              "\"The infusion can run up to 16 hours a day and be stopped while I sleep.\"",
+              "\"Once the infusion keeps my level steady, I can keep driving my truck for work.\""
+            ],
+            "answers": [
+              0,
+              1,
+              2,
+              4
+            ],
+            "rationale": "Correct: Taking Sinemet with a small amount of food helps nausea and keeps clients taking the drug, even though eating reduces absorption somewhat. High-protein meals reduce the drug's effect. Darkened sweat and urine are not harmful but can stain clothing. Duopa is a continuous infusion for up to 16 hours a day that can be stopped while sleeping at night. Incorrect: Dyskinesias are an adverse effect that ranges from annoying to disabling, sometimes so disabling the client needs a different drug, so they should be reported. Duopa can cause falling asleep without warning, so it is not for clients who drive a truck or pilot an aircraft for a living, even though it keeps a steadier blood level.",
+            "topic": "Parkinson's Disease &amp; Parkinson's Pharmacology",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
+    },
+    {
+      "id": "week3-myasthenia-gravis",
+      "label": "Myasthenia Gravis",
+      "week": 3,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "A client newly diagnosed with myasthenia gravis says, \"The doctor said my nerves and muscles aren't communicating. I guess my body just stopped making enough acetylcholine, so I need pills to replace it.\" Which response by the nurse best corrects the client's understanding?",
+            "options": [
+              "\"Your nerves are damaged, so they can no longer release acetylcholine onto the muscle at all.\"",
+              "\"Your supply is fine; antibodies block and then destroy the receptors acetylcholine needs.\"",
+              "\"Your muscles make too much of an enzyme, so the acetylcholine you produce never reaches them.\"",
+              "\"Antibodies attack the acetylcholine itself, so less of it is left in the junction for the muscle.\""
+            ],
+            "answer": 1,
+            "rationale": "Correct: In MG the body makes enough acetylcholine, but antibodies form against the nicotinic acetylcholine receptors on the postsynaptic membrane, block them from binding acetylcholine, and eventually destroy them, so too few sites remain and transmission to the muscle is diminished. Incorrect: The antibodies target the receptor sites, not the acetylcholine molecule itself; the nerve still releases acetylcholine; and cholinesterase is the normal enzyme that breaks acetylcholine down, not an overproduced cause of MG (blocking it is how the drugs help).",
+            "topic": "Myasthenia Gravis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client who is 4 weeks postpartum reports that by late afternoon her eyelids feel heavy, chewing dinner tires her jaw, and she sometimes drools, but after a nap these symptoms ease. Her shoulders and hips feel normal. She says, \"It's just new-baby exhaustion.\" Which interpretation by the nurse is most appropriate?",
+            "options": [
+              "The pattern fits myasthenia gravis, which often first appears after birth, and jaw fatigue raises aspiration risk.",
+              "The normal shoulder and hip strength makes myasthenia gravis unlikely, since limb weakness is its most typical early sign.",
+              "Symptoms that ease with rest point away from myasthenia gravis, which causes weakness that stays fixed throughout the day.",
+              "The drooling suggests excessive cholinergic stimulation, so a cholinergic crisis is the most likely explanation for her signs."
+            ],
+            "answer": 0,
+            "rationale": "Correct: MG has an insidious onset with fluctuating weakness that returns to strength after rest; the eye, face, mouth, throat and neck muscles are often affected first (drooling, difficulty chewing and swallowing, which raises aspiration risk), and manifestations often first appear during pregnancy or postpartum. Incorrect: Shoulders and hips are not typically affected, so their normal strength does not rule MG out; weakness that improves with rest is the classic MG pattern, not a reason to dismiss it; and cholinergic crisis arises from anticholinesterase drug toxicity, which this untreated client has not received.",
+            "topic": "Myasthenia Gravis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "The nurse is caring for two clients with myasthenia gravis. Client A has had a cold for 2 days, now speaks in short phrases, and says it is hard to take a deep breath; she reports taking every neostigmine dose on time. Client B is drooling and coughing weakly while eating lunch. Which action should the nurse take first?",
+            "options": [
+              "Stop Client B's meal and position him upright, since difficulty swallowing is the earliest sign of a crisis in MG.",
+              "Reassure Client A that her dosing is adequate, so her breathing change is most likely due to the cold itself.",
+              "Assess Client A's breathing first, since an infection can trigger myasthenic crisis and respiratory insufficiency.",
+              "Hold Client A's next neostigmine dose, since her breathing problem is most consistent with cholinergic crisis."
+            ],
+            "answer": 2,
+            "rationale": "Correct: Myasthenic crisis is an acute exacerbation of weakness typically triggered by a stressor such as an infection (a simple cold in the lecture video); the big concern is the respiratory muscles, with a higher risk of respiratory arrest, so Client A takes priority. Incorrect: Taking medication on schedule does not rule out a crisis, because infection alone is a trigger; Client B's swallowing difficulty raises aspiration risk but is a common MG manifestation, not the more urgent respiratory threat; and nothing in Client A's picture (no excessive muscarinic signs, no drug toxicity) points to cholinergic crisis.",
+            "topic": "Myasthenia Gravis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A nursing student explains to the nurse how neostigmine helps a client with myasthenia gravis. Which statement by the student indicates correct understanding?",
+            "options": [
+              "\"It calms the immune response so the antibodies stop forming against the acetylcholine receptors.\"",
+              "\"It stimulates the nerve to release more acetylcholine, which overwhelms the antibodies at the junction.\"",
+              "\"It rebuilds the receptor sites the antibodies destroyed, which is why it is considered a cure for MG.\"",
+              "\"It blocks the enzyme that breaks down acetylcholine, so it lasts longer and finds undamaged receptors.\""
+            ],
+            "answer": 3,
+            "rationale": "Correct: Neostigmine is a cholinesterase inhibitor; blocking cholinesterase lets acetylcholine stay in the synaptic junction longer so it can find a receptor the antibodies haven't damaged, and it intensifies the acetylcholine's effects. Incorrect: Calming the immune response is the role of immunosuppressants such as steroids, a different drug class; the problem in MG is not acetylcholine release, since the body makes enough; and drug therapy for MG is not a cure and does not rebuild receptors.",
+            "topic": "Myasthenia Gravis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with myasthenia gravis and a long history of asthma is prescribed neostigmine. The client asks why the provider \"thought twice\" before ordering it. Which explanation by the nurse is accurate?",
+            "options": [
+              "Its nicotinic action on skeletal muscle can strengthen the diaphragm too much and stiffen breathing.",
+              "Its anticholinergic action dries airway secretions, which can thicken mucus and trigger an asthma attack.",
+              "Its immunosuppressant action lowers resistance to the respiratory infections that worsen asthma.",
+              "Its muscarinic action can constrict the bronchi, which is a concern for clients with lung disease."
+            ],
+            "answer": 3,
+            "rationale": "Correct: At therapeutic levels neostigmine stimulates muscarinic as well as nicotinic receptors; muscarinic stimulation causes most of its side effects, including bronchial constriction, so it is considered carefully in clients with asthma or other lung disease. Incorrect: Increased skeletal muscle contraction is the desired nicotinic effect, not a lung concern; neostigmine is cholinergic, so it increases rather than dries secretions (drying is an anticholinergic effect such as atropine's); and it is a cholinesterase inhibitor, not an immunosuppressant.",
+            "topic": "Myasthenia Gravis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "The nurse reviews four clients. For which client would the nurse expect a prescription for atropine?",
+            "options": [
+              "A client taking neostigmine for MG who reports increased muscle strength after each dose",
+              "A client in hospice care who is choking on oral secretions that he can no longer swallow",
+              "A client in myasthenic crisis after surgery whose weakness improved after edrophonium",
+              "A client with MG whose heart rate is 112/min and who reports constipation for 3 days"
+            ],
+            "answer": 1,
+            "rationale": "Correct: Atropine is an anticholinergic that dries secretions; the lecture gives clients on comfort care or hospice who are choking on secretions they cannot swallow as an example use (it is also used to raise the heart rate in symptomatic bradycardia). Incorrect: A heart rate of 112/min with constipation reflects the anticholinergic direction already (increased heart rate, decreased motility), so atropine would worsen it; increased muscle strength is neostigmine's desired nicotinic effect; and improvement after edrophonium confirms myasthenic crisis, which needs more acetylcholine, not an anticholinergic.",
+            "topic": "Myasthenia Gravis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with myasthenia gravis whose neostigmine dose was recently increased now has extreme generalized weakness and labored breathing. The nurse also notes a heart rate of 48/min, pinpoint pupils, profuse sweating, excessive saliva, and abdominal cramping with diarrhea. Which conclusion is best supported by these cues?",
+            "options": [
+              "Excess acetylcholine from drug toxicity is overstimulating and wearing out the muscles: a cholinergic crisis.",
+              "Too little acetylcholine stimulation is leaving the weakened muscles unable to contract: a myasthenic crisis.",
+              "The increased dose is working as intended, and the muscarinic signs reflect expected therapeutic drug levels.",
+              "The antibodies have destroyed the remaining receptors, so no amount of acetylcholine can act on them."
+            ],
+            "answer": 0,
+            "rationale": "Correct: Extreme weakness plus signs of excessive muscarinic stimulation (bradycardia, pupil constriction, lots of saliva, diaphoresis, increased intestinal motility) after a dose increase indicates cholinergic crisis, a drug toxicity from excessive acetylcholine; overstimulated muscles wear out and can fail. Incorrect: Myasthenic crisis shares the respiratory insufficiency and weakness but comes from too little acetylcholine stimulation (a stressor or inadequate medication) and does not explain the muscarinic signs; a toxic dose decreases rather than increases contraction, so this is not a therapeutic response; and receptor destruction is the underlying MG process, not the explanation for the new muscarinic signs.",
+            "topic": "Myasthenia Gravis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with myasthenia gravis arrives with severe weakness and respiratory insufficiency, and it is unclear which crisis is occurring. The provider gives edrophonium, and within minutes the client's grip strength and breathing improve. How should the nurse interpret this response?",
+            "options": [
+              "The client is in cholinergic crisis, because edrophonium blocked the excess acetylcholine causing the weakness.",
+              "The test is inconclusive, because both crises improve briefly whenever acetylcholine levels rise in the junction.",
+              "The client is in myasthenic crisis, because a temporary rise in acetylcholine helped where too little was available.",
+              "The client is in myasthenic crisis, because edrophonium suppressed the antibodies that had been blocking the receptors."
+            ],
+            "answer": 2,
+            "rationale": "Correct: Edrophonium is a very short-acting cholinesterase inhibitor that temporarily raises acetylcholine; improvement means myasthenic crisis, where the problem is not enough acetylcholine stimulation. Incorrect: A client in cholinergic crisis already has too much acetylcholine and worsens after edrophonium, so the test does discriminate between the two; edrophonium raises acetylcholine rather than blocking it; and it works by inhibiting cholinesterase, not by suppressing antibodies.",
+            "topic": "Myasthenia Gravis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with myasthenia gravis says, \"When my legs feel weak, I take an extra neostigmine tablet. More of the drug always means more acetylcholine, so my muscles can only get stronger.\" Which response by the nurse is most accurate?",
+            "options": [
+              "\"That is true for your limb muscles, but extra doses mainly put your heart at risk by speeding up your heart rate.\"",
+              "\"At toxic doses, overstimulated muscles wear out and weaken, which can lead to failure of breathing muscles.\"",
+              "\"Extra doses are safe, since your body makes enough acetylcholine and the antibodies limit how much can act.\"",
+              "\"Extra doses are only a concern for constipation, since the drug slows the movement of your intestines.\""
+            ],
+            "answer": 1,
+            "rationale": "Correct: At a therapeutic dose neostigmine's nicotinic effect increases muscle contraction, but at a toxic dose contraction decreases because overstimulated muscles wear out and can fail, leading to a cholinergic crisis with risk of respiratory arrest. Incorrect: Cholinergic stimulation slows the heart rate and increases GI motility (diarrhea), so a fast heart rate and constipation are the wrong direction; and having enough acetylcholine does not make extra doses safe, because excessive acetylcholine accumulation is exactly what causes the toxicity.",
+            "topic": "Myasthenia Gravis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with myasthenia gravis is taking neostigmine. Which findings would the nurse attribute to the drug's stimulation of muscarinic receptors? Select all that apply.",
+            "options": [
+              "Increased grip strength 1 hour after a dose",
+              "Heavy sweating with no fever or exertion",
+              "Heart rate rising from 72/min to 104/min",
+              "Frequent loose stools with abdominal cramping",
+              "Dry mouth and difficulty producing saliva",
+              "Eyelid drooping that eases after a short rest"
+            ],
+            "answers": [
+              1,
+              3
+            ],
+            "rationale": "Correct: Neostigmine stimulates muscarinic receptors (sweat and other glands, GI tract, heart, bladder, lungs, eyes), which causes most of its side effects: diaphoresis and GI distress with increased motility and diarrhea are part of the SLUDGE pattern. Incorrect: Increased grip strength is the desired nicotinic (skeletal muscle) effect, not muscarinic; cholinergic stimulation slows the heart rate and increases secretions, so a rising heart rate and dry mouth are anticholinergic-direction findings like those of atropine; and eyelid drooping that eases with rest is the fluctuating weakness of MG itself.",
+            "topic": "Myasthenia Gravis",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
+    },
+    {
+      "id": "week3-multiple-sclerosis",
+      "label": "Multiple Sclerosis",
+      "week": 3,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "Two clients with multiple sclerosis (MS) are seen after a flare. Client A reports her left leg feels a little weaker and slower than usual but still works. Client B has had no movement return in a limb for many months. Which explanation of the difference is most accurate?",
+            "options": [
+              "Client A reflects lost oligodendrocytes, while client B reflects inflammation that has not yet reached the axon.",
+              "Client A reflects axon death, while client B reflects myelin that has detached but left the axon intact.",
+              "Both reflect gliosis of the peripheral nerves, differing only in how far the scar tissue has spread.",
+              "Client A reflects an inflamed but intact fiber, while client B reflects detached myelin and a damaged axon."
+            ],
+            "answer": 3,
+            "rationale": "Correct: In the early, inflamed stage the nerve fiber is intact, so impulses are still transmitted, maybe a little slower, and the client may notice some weakness. Once the myelin detaches and the underlying axon is damaged, scarring and axon death follow and the impulse is completely blocked, a permanent loss of function. Incorrect: The axon-death option reverses the two clients; axon death is the permanent end stage, not the milder one. Loss of oligodendrocytes is part of the demyelinating process, not an earlier stage than inflammation. MS affects the central nervous system; peripheral nerve demyelination describes Guillain-Barre.",
+            "topic": "Multiple Sclerosis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A 32-year-old man who lives in the northern United States is newly diagnosed with MS. He says, \"MS is mostly a women's disease, so as a man mine will probably be mild.\" Which response by the nurse is most accurate?",
+            "options": [
+              "\"MS is more common in women, and at 32 you are outside the usual age of onset, so your course is hard to predict.\"",
+              "\"MS is equally common in men and women, but living in a cool northern climate makes a milder course more likely.\"",
+              "\"MS is more common in women, but men who develop it typically have a more severe, progressive course.\"",
+              "\"MS is more common in men, and men usually have a relapsing course that returns to baseline after each flare.\""
+            ],
+            "answer": 2,
+            "rationale": "Correct: MS is more common in females, but males who get MS typically have a more severe, progressive course, so the client's assumption needs correcting. Incorrect: Onset is typically between 20 and 40, so 32 is within the usual range, not outside it. A moderately cool climate (above the 40th parallel north) is linked to higher prevalence of MS, not a milder course, and MS is not equally common in both sexes. Returning to baseline after each flare describes benign MS, not the typical male course.",
+            "topic": "Multiple Sclerosis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A 45-year-old client's history shows years of exacerbations followed by remissions, with some loss of function after each one. Over the past two years her symptoms have worsened steadily and she has had no remissions. She also reports new constipation. Which type of MS does this pattern most closely match?",
+            "options": [
+              "Secondary progressive MS",
+              "Primary progressive MS",
+              "Progressive relapsing MS",
+              "Relapsing-remitting MS"
+            ],
+            "answer": 0,
+            "rationale": "Correct: Secondary progressive MS starts with relapses and remissions, with some loss of function each time, then shifts to a more progressive course without remissions, which matches this history. The constipation is a common MS bowel symptom and does not point to a specific type. Incorrect: Primary progressive MS has gradual, steady progression from the start with no periods of remission or exacerbation, but this client clearly had relapses and remissions first. Progressive relapsing MS shows gradual progression with continuing exacerbations and fewer remissions, not a relapsing phase that later gives way to steady progression. Relapsing-remitting MS has long remissions and is fairly stable between exacerbations, not two years of steady worsening without remission.",
+            "topic": "Multiple Sclerosis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with relapsing-remitting MS started interferon beta (Avonex) six months ago. Before treatment her relapses lasted about a month; her most recent relapse lasted five days. She says, \"I still had a flare, so the drug failed.\" Which interpretation by the nurse is most accurate?",
+            "options": [
+              "A flare on therapy means the disease has shifted to primary progressive MS, which these drugs cannot affect.",
+              "Shorter relapses since starting suggest the drug is working; interferon lowers relapse rates but does not end them.",
+              "Any relapse on interferon beta signals failure, so natalizumab should be added to her current interferon beta regimen.",
+              "Relapses lasting under a week occur only in benign MS, so the drug has most likely changed the type of her MS."
+            ],
+            "answer": 1,
+            "rationale": "Correct: If relapses get shorter after starting treatment (for example, from a month down to a week or less), that suggests the medication is working. There is no cure; interferon beta decreases relapse rates by up to 30% and lengthens remission rather than eliminating relapses. Incorrect: Primary progressive MS has no flare-ups at all, so a flare does not indicate a shift to that type. Natalizumab is used only as monotherapy, so adding it to interferon is not appropriate. Benign MS is defined by returning to baseline after each flare, not by relapse length; short relapses (under a week) occur in about 20% of people.",
+            "topic": "Multiple Sclerosis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with relapsing-remitting MS who receives natalizumab infusions through the TOUCH program is admitted with an acute relapse. The covering provider orders high-dose IV glucocorticoids, 1 g daily for 3 days. Which concern should the nurse raise with the provider before giving the first dose?",
+            "options": [
+              "Adding steroids to natalizumab significantly raises the risk of progressive multifocal leukoencephalopathy.",
+              "Glucocorticoid doses for an MS relapse are 40 to 60 mg daily, so a 1 g order is likely a prescribing error.",
+              "Natalizumab should be stopped during any relapse because the relapse is a sign of its hepatic toxicity.",
+              "Glucocorticoids are reserved for primary progressive MS, so they are not indicated for a relapse at all."
+            ],
+            "answer": 0,
+            "rationale": "Correct: The big risk with natalizumab is progressive multifocal leukoencephalopathy (PML), which is debilitating and possibly fatal, and the PML risk is significantly higher with other immunosuppressants such as steroids, so this combination warrants clarification. Incorrect: Pulse-dose steroids for an MS relapse are very high, about 500 mg to 1 g daily for 3 to 5 days; 40 to 60 mg is the asthma dose, so 1 g is not an error in itself. Hepatic toxicity with natalizumab is monitored with LFTs and is not what causes an MS relapse. High-dose IV glucocorticoids are the usual treatment for an acute exacerbation, and primary progressive MS has no exacerbations to treat.",
+            "topic": "Multiple Sclerosis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with type 1 diabetes is on day 2 of a 5-day course of high-dose IV glucocorticoids for an MS relapse. The client tolerated the first dose without problems, and the morning blood glucose is 310 mg/dL. Which action by the nurse is most appropriate?",
+            "options": [
+              "Request that the remaining IV doses be replaced with a long-term, lower-dose oral steroid to protect glucose control.",
+              "Expect the glucose to fall on its own as the relapse resolves, so no change to the insulin plan is needed.",
+              "Request ACTH gel instead, since it is the preferred relapse treatment for any client who has diabetes.",
+              "Anticipate a need for extra insulin or an insulin infusion while the pulse-dose steroids continue."
+            ],
+            "answer": 3,
+            "rationale": "Correct: Pulse-dose steroids raise blood glucose, so a diabetic client may need extra insulin or an insulin infusion while the short course is completed. Incorrect: High-dose glucocorticoids are not for long-term or frequent use and are reserved for exacerbations, so switching to long-term steroids is the wrong direction. The hyperglycemia is a drug effect, not a feature of the relapse that will resolve on its own, so ignoring it is unsafe. ACTH gel is for clients who cannot tolerate glucocorticoids or when steroids are not effective, not for every client with diabetes; this client tolerated the dose.",
+            "topic": "Multiple Sclerosis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "Two clients with MS report bladder problems. Client A has urinary frequency and urgency. Client B voids only small amounts and has a palpable, distended bladder after voiding. Which medication plan does the nurse anticipate?",
+            "options": [
+              "Client A: a cholinergic; client B: an anticholinergic",
+              "Client A and client B: an anticholinergic for both",
+              "Client A: an anticholinergic; client B: a cholinergic",
+              "Client A and client B: a cholinergic for both"
+            ],
+            "answer": 2,
+            "rationale": "Correct: MS symptoms are managed according to the presentation: urinary frequency is treated with an anticholinergic, and urinary retention is treated with a cholinergic. Client B's small voids with a distended bladder indicate retention. Incorrect: The first option reverses the two drug classes. Giving one class to both clients ignores that MS bladder dysfunction can be either incontinence/frequency or retention, which need opposite approaches.",
+            "topic": "Multiple Sclerosis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with MS who has fatigue managed with amantadine is newly prescribed donepezil (Aricept). The client's spouse says, \"That's an Alzheimer's drug. Does this mean my wife is getting dementia?\" Which response by the nurse is most accurate?",
+            "options": [
+              "\"It is given because MS mainly destroys the brain's memory centers, in the same way that Alzheimer's disease does.\"",
+              "\"It is used in MS for severe trouble thinking clearly and concentrating, which is not mainly a memory problem.\"",
+              "\"It is given in MS to treat her fatigue, so planning her day around rest periods will no longer be needed.\"",
+              "\"It is given in MS to relax the muscle spasms that are making it harder for her to concentrate and think.\""
+            ],
+            "answer": 1,
+            "rationale": "Correct: Donepezil, normally an Alzheimer's medication, is used for severe cognitive dysfunction in MS (\"cog fog\"), which is difficulty thinking clearly and concentrating, not necessarily a memory problem. Incorrect: MS is demyelination of CNS white and gray matter, not a targeted destruction of memory centers. Fatigue is treated with amantadine plus teaching to plan the day around rest periods, so rest planning remains part of care. Muscle spasms are treated with muscle relaxants, not donepezil.",
+            "topic": "Multiple Sclerosis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with MS gave a glatiramer acetate (Copaxone) injection five minutes ago. The client now reports flushing, palpitations, and chest pain and has a new rash on the chest. Which action by the nurse is most appropriate?",
+            "options": [
+              "Hold all future doses, since this reaction points to liver toxicity that must first be confirmed with LFTs.",
+              "Treat this as the flu-like reaction to the drug and plan an antipyretic before the next scheduled dose.",
+              "Stay with the client and watch the airway, since this is usually brief but the larynx can constrict.",
+              "Obtain blood counts at once, since this reaction signals bone marrow suppression from the injection."
+            ],
+            "answer": 2,
+            "rationale": "Correct: A reaction right after a glatiramer injection (flushing, palpitations, chest pain, rash, laryngeal constriction) is usually transient, lasting about 10 to 20 minutes, and usually needs no treatment, but severe laryngeal constriction must be monitored and may need other medications. Incorrect: Flu-like reactions, liver toxicity, and bone marrow suppression are adverse effects of interferon beta, not of this post-injection reaction to glatiramer, so the LFT, antipyretic, and blood-count options apply the right monitoring to the wrong drug.",
+            "topic": "Multiple Sclerosis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client newly diagnosed with relapsing-remitting MS asks how the disease-modifying drugs work. Which statements by the nurse are accurate? Select all that apply.",
+            "options": [
+              "Fingolimod keeps lymphocytes in the lymph nodes so they do not migrate across the blood-brain barrier.",
+              "Natalizumab can be safely combined with interferon beta to strengthen the overall effect on relapse rates.",
+              "Interferon beta keeps pro-inflammatory T cells from crossing the blood-brain barrier.",
+              "Glatiramer acetate decreases anti-inflammatory T cells so fewer of them enter the brain.",
+              "Natalizumab keeps circulating T cells from leaving the blood vessels to enter the CNS.",
+              "Dimethyl fumarate stimulates immune cells so that damaged myelin can be regrown."
+            ],
+            "answers": [
+              0,
+              2,
+              4
+            ],
+            "rationale": "Correct: Fingolimod retains lymphocytes in the lymph nodes so they do not cross the blood-brain barrier. Interferon beta keeps pro-inflammatory T cells from crossing the blood-brain barrier, reducing inflammation. Natalizumab keeps circulating T cells from leaving the blood vessels, so they cannot cross the blood-brain barrier. Incorrect: Natalizumab is used as monotherapy only and is tightly regulated through the TOUCH program, so it is not added to interferon. Glatiramer increases anti-inflammatory T cells, which cross the blood-brain barrier and suppress inflammation; it does not decrease them. Dimethyl fumarate is thought to inhibit immune cells, decreasing inflammation and preventing nerve damage; it does not stimulate them, and there is no cure that regrows myelin.",
+            "topic": "Multiple Sclerosis",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
     }
   ],
 
@@ -946,7 +1533,11 @@ window.QUIZ_BANK = {
     "Acute MI Pharmacology",
     "Aneurysms &amp; Aortic Dissection",
     "Acid-Base Balance",
-    "ABGs &amp; ABG Interpretation"
+    "ABGs &amp; ABG Interpretation",
+    "Migraines",
+    "Parkinson's Disease &amp; Parkinson's Pharmacology",
+    "Myasthenia Gravis",
+    "Multiple Sclerosis"
   ]
 };
 
