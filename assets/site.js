@@ -112,6 +112,12 @@ const SITE = {
         { id: "exam2-jeopardy", num: "2", title: "Exam 2 Jeopardy — 3 Player Game", file: "exam2-jeopardy.html" },
       ]
     },
+    {
+      label: "Final Exam Review",
+      items: [
+        { id: "final-nur325-review", num: "1", title: "NUR 325 Review", file: "final-nur325-review.html" },
+      ]
+    },
     /* ---- ADD WHEN YOU BUILD THEM: the Jeopardy group ----
     {
       label: "Jeopardy Games",
