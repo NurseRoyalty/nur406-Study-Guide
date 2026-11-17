@@ -87,6 +87,16 @@ const SITE = {
       ]
     },
     {
+      label: "Week 5",
+      items: [
+        { id: "week5-study-guide", num: "★", title: "Comprehensive Study Guide", file: "week5-study-guide.html" },
+        { id: "week5-dka-hhs", num: "1", title: "DKA &amp; HHS", file: "week5-dka-hhs.html" },
+        { id: "week5-thyroid-crisis", num: "2", title: "Thyroid Crisis: Thyroid Storm &amp; Myxedema Coma", file: "week5-thyroid-crisis.html" },
+        { id: "week5-addisonian-crisis", num: "3", title: "Addisonian Crisis", file: "week5-addisonian-crisis.html" },
+        { id: "week5-big-picture-overview", num: "4", title: "Big Picture Overview", file: "week5-big-picture-overview.html" },
+      ]
+    },
+    {
       label: "Exam Prep",
       items: [
         { id: "must-know",       num: "1", title: "Must Know Quick Reference", file: "must-know.html" },
