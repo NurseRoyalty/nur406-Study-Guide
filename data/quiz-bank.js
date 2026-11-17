@@ -1965,6 +1965,449 @@ window.QUIZ_BANK = {
         ],
         "eaq": []
       }
+    },
+    {
+      "id": "week5-dka-hhs",
+      "label": "DKA &amp; HHS",
+      "week": 5,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "A client with DKA has a glucose of 520 mg/dL and a pH of 7.15. Arrival potassium is 5.8 mEq/L; the client has no symptoms of hyperkalemia and the EKG shows no changes. Fluids are running and the provider is ready to start the insulin infusion. Using the protocol taught in the lecture, which plan does the nurse anticipate?",
+            "options": [
+              "Start the insulin infusion without potassium yet, and recheck potassium closely as it falls",
+              "Add potassium to the fluids before insulin, since total body potassium is depleted underneath",
+              "Give a drug to lower the potassium first, since a level of 5.8 shows a true potassium excess",
+              "Hold the insulin until the potassium drops below 5, since insulin is unsafe in hyperkalemia"
+            ],
+            "answer": 0,
+            "rationale": "Correct: The arrival potassium is high from acidosis, insulin deficiency and the cell shift, but it is not lowered unless the client is symptomatic, because it returns toward normal as pH is corrected. Under the protocol, potassium is replaced before insulin only when it is below 5 (and replaced first if below 3.3). Once insulin starts, potassium moves into the cells and falls quickly, so it is rechecked closely and replaced when it reaches normal. Incorrect: Total body potassium is depleted, but replacement before insulin is for a level below 5, not 5.8. The high serum level is not a true excess, so it isn't treated in an asymptomatic client. Insulin is not held for hyperkalemia; insulin is what brings the level down.",
+            "topic": "DKA &amp; HHS",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "After 1 liter of normal saline, a client in DKA has a glucose of 480 mg/dL, a pH of 7.18 and a potassium of 3.1 mEq/L. The provider asks the nurse to hang the insulin infusion now. Which response by the nurse is most appropriate?",
+            "options": [
+              "Start insulin and potassium together, since both must begin at once to correct the acidosis",
+              "Ask to replace potassium before insulin starts, since insulin will drive the low potassium lower",
+              "Start insulin now, since correcting the pH will move potassium back out of the cells to the normal range",
+              "Ask for sodium bicarbonate first, since raising the pH will correct the potassium on its own"
+            ],
+            "answer": 1,
+            "rationale": "Correct: With potassium below 3.3, the protocol replaces potassium first, because insulin drives potassium into the cells and would worsen the deficit, risking severe hypokalemia and dysrhythmias. Incorrect: Starting insulin alongside potassium still drops a level that is already below 3.3. Correcting the pH lowers serum potassium (hydrogen leaves the cells and potassium goes back in); it does not raise it. Bicarbonate is considered for a pH around 7.1 to 7.2 depending on presentation; it is not a fix for a potassium of 3.1.",
+            "topic": "DKA &amp; HHS",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "Two clients are admitted. A 19-year-old with type 1 diabetes has vomited for a day, has fruity breath and deep, rapid respirations, and a glucose of 410 mg/dL. A 74-year-old with type 2 diabetes has had several days of polyuria and growing lethargy, no ketones, and a glucose of 1,150 mg/dL. A student asks why the older client's glucose is so much higher. Which explanation is accurate?",
+            "options": [
+              "The older client makes no insulin at all, so nothing slows liver glucose output, while the younger client still makes some of its own insulin",
+              "The younger client's ketones lower the glucose by acting as fuel, while the older client has no ketones to use for energy",
+              "Ketoacidosis symptoms bring the younger client in early, while the older client's later arrival and lower GFR let glucose keep climbing",
+              "The older client's higher GFR lets more glucose stay in the blood, while the younger client loses more glucose in the urine"
+            ],
+            "answer": 2,
+            "rationale": "Correct: DKA clients present earlier with shortness of breath, abdominal pain, nausea and vomiting, so glucose is usually 350 to 450. HHS clients arrive later without those warnings; osmotic diuresis causes volume depletion and a lower GFR that limits glucose excretion, so glucose can exceed 1,000. Incorrect: The relationship is reversed: in HHS residual insulin limits lipolysis but cannot control hyperglycemia, while type 1 DKA has an absolute deficiency. Younger DKA clients have the higher GFR, which increases glucose excretion. Ketones are not described as lowering glucose.",
+            "topic": "DKA &amp; HHS",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client being treated for DKA now has a glucose of 210 mg/dL, but the anion gap remains elevated and beta-hydroxybutyrate is still high. The client is not yet eating. Which change does the nurse anticipate?",
+            "options": [
+              "Stop the insulin infusion, since the glucose has dropped into the target range",
+              "Switch to subcutaneous insulin, since the glucose is near 200 and the client is stable",
+              "Slow the insulin and keep plain saline, since the gap will close once glucose is normal",
+              "Change the fluids to dextrose with saline and keep the insulin infusion running"
+            ],
+            "answer": 3,
+            "rationale": "Correct: When glucose reaches about 200 to 250, dextrose is added to the saline while the insulin infusion continues, so the open gap can keep closing without hypoglycemia. DKA resolution is judged by the labs (pH or anion gap, falling beta-hydroxybutyrate), not by glucose alone. Incorrect: Stopping insulin at a glucose of 210 leaves the ketoacidosis unresolved. The switch to subQ insulin happens once the condition has resolved and the client can eat regularly. Glucose alone does not close the gap; insulin continues until the gap is closed.",
+            "topic": "DKA &amp; HHS",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with DKA has a glucose of 680 mg/dL and a serum sodium of 128 mEq/L. A new nurse suggests asking for a sodium replacement order. Which response best reflects the lecture?",
+            "options": [
+              "The low sodium means the client is fluid overloaded, so IV fluids should be restricted until it rises",
+              "The low sodium is dilutional from water pulled out of the cells, and it corrects as the glucose is lowered",
+              "The low sodium comes from sodium lost in the urine, so it needs replacement before insulin begins",
+              "The low sodium shows total body sodium is depleted, so it should be corrected along with the potassium deficit"
+            ],
+            "answer": 1,
+            "rationale": "Correct: Hyperglycemia pulls water out of the cells and expands the extracellular fluid, so sodium falls: a dilutional hyponatremia that is not treated directly because it corrects as the hyperglycemia is corrected. Incorrect: These clients are volume depleted from osmotic diuresis, and fluid replacement is usually the first step, so restricting fluids is wrong. The page attributes the low sodium to dilution, not to urinary sodium loss. Replacement before insulin is a potassium rule, not a sodium rule.",
+            "topic": "DKA &amp; HHS",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with type 1 diabetes is admitted in DKA. Two weeks ago the hemoglobin A1c was at goal. The client reports taking insulin exactly as usual and has a fever of 102.4°F and a productive cough. Which conclusion is best supported?",
+            "options": [
+              "Poor insulin compliance is the likely trigger, since DKA in type 1 means doses were likely missed",
+              "An inflammatory event such as an MI is the likely trigger, since infection rarely causes DKA",
+              "Infection without an insulin adjustment is the likely trigger, since stress raised insulin needs",
+              "No trigger is likely, since a recent A1c at goal rules out a precipitating factor for DKA"
+            ],
+            "answer": 2,
+            "rationale": "Correct: Infection is the most common precipitating factor, for example severe pneumonia without an insulin adjustment: stress raises the insulin requirement, and the usual dose is no longer enough. A recent A1c at goal argues against poor compliance. Incorrect: Compliance is checked with the A1c, which here was at goal. MI and other inflammatory events are triggers, but nothing points to one, and infection is the most common cause. The A1c reflects compliance; it does not rule out an acute trigger such as infection.",
+            "topic": "DKA &amp; HHS",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "Which client does the nurse identify as at greatest risk of developing HHS?",
+            "options": [
+              "A 24-year-old with type 1 diabetes who missed two insulin doses while traveling out of state this week",
+              "A 58-year-old with type 2 diabetes taking dapagliflozin who has just developed sepsis",
+              "A 35-year-old with type 1 diabetes and gastroenteritis who is vomiting and not eating",
+              "An 82-year-old nursing-home resident with type 2 diabetes and a UTI who cannot reach fluids"
+            ],
+            "answer": 3,
+            "rationale": "Correct: HHS is mostly type 2 and more common over 65. Clients with altered thirst or no access to fluids, as in the elderly, are at increased risk of severe dehydration, and a UTI is a common precipitant. Incorrect: Missed insulin in type 1 points to DKA, which is characteristic of type 1. About 30% of DKA cases occur in type 2, particularly with SGLT2 inhibitors such as dapagliflozin, so sepsis on dapagliflozin points to DKA. A young type 1 client who is vomiting fits the DKA picture.",
+            "topic": "DKA &amp; HHS",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A 56-year-old with type 2 diabetes who takes dapagliflozin is admitted with sepsis, abdominal pain, fruity breath and deep, rapid respirations. Glucose is 390 mg/dL. A student says, \"This must be HHS, since the client has type 2 diabetes.\" Which response by the nurse is correct?",
+            "options": [
+              "About 30% of DKA cases occur in type 2, especially with SGLT2 inhibitors, and these findings point to ketoacidosis",
+              "HHS is likely, since type 2 clients still make insulin, which always prevents the liver's formation of ketone bodies",
+              "HHS is likely, since a glucose under 400 is typical of HHS, while DKA glucose usually runs above 1,000",
+              "Neither is likely, since type 2 clients cannot develop either crisis unless they are over 65 years old"
+            ],
+            "answer": 0,
+            "rationale": "Correct: Fruity breath and Kussmaul respirations are ketoacidosis findings. DKA can occur in type 2 under extreme stress such as sepsis, and about 30% of DKA cases are in type 2, particularly with the \"-flozins.\" Incorrect: Type 2 insulin is typically enough to prevent ketones, but not in extreme situations. The glucose ranges are reversed: DKA usually runs 350 to 450, while HHS can exceed 1,000. Age over 65 makes HHS more common; it is not a requirement for either crisis.",
+            "topic": "DKA &amp; HHS",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client in DKA has deep, rapid respirations at 32/min with an SpO2 of 98% on room air. A float nurse suggests applying oxygen and asking for an anxiolytic to slow the breathing. Which response by the nurse is best?",
+            "options": [
+              "The breathing shows a primary lung problem, so oxygen should be applied first, before the acidosis is addressed",
+              "The breathing is from anxiety about admission, so an anxiolytic is reasonable once glucose falls below 250",
+              "The breathing compensates for the metabolic acidosis, and it eases as fluids and insulin correct the acidosis",
+              "The breathing is causing the acidosis by retaining carbon dioxide, so the rate needs to be slowed down"
+            ],
+            "answer": 2,
+            "rationale": "Correct: Kussmaul respirations are deep respirations and hyperventilation that compensate for the metabolic acidosis; treating the cause with fluids and insulin is what resolves them, and slowing the breathing would remove the compensation. Incorrect: An SpO2 of 98% does not suggest a primary lung problem. The pattern is a compensation, not anxiety. Hyperventilation blows off carbon dioxide; it does not retain it or cause the acidosis.",
+            "topic": "DKA &amp; HHS",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client is receiving an IV insulin infusion for DKA. Which nursing actions are appropriate during the infusion? Select all that apply.",
+            "options": [
+              "Check the blood glucose about once an hour at first and adjust the rate to the glucose",
+              "Watch the EKG for changes of both hyperkalemia and hypokalemia during treatment",
+              "Expect dextrose to be added to the fluids when glucose reaches about 200 to 250",
+              "Follow the anion gap and electrolytes to judge when the ketoacidosis has resolved",
+              "Aim for the glucose to fall as rapidly as possible so the gap closes sooner",
+              "Stop the insulin infusion as soon as the client is alert and the glucose is near 250 mg/dL"
+            ],
+            "answers": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "rationale": "Correct: Glucose is checked regularly, typically hourly at first, with the rate adjusted. The EKG is watched for hyper- and hypokalemia because insulin drives potassium into the cells. Dextrose is added at about 200 to 250 while insulin continues. Electrolytes and the anion gap are monitored, and DKA resolution is judged by the labs. Incorrect: Glucose should not fall too rapidly. Alertness is how HHS resolution is judged; in DKA the insulin continues until the anion gap is closed, not just until glucose is near 250.",
+            "topic": "DKA &amp; HHS",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
+    },
+    {
+      "id": "week5-thyroid-crisis",
+      "label": "Thyroid Crisis: Thyroid Storm &amp; Myxedema Coma",
+      "week": 5,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "A client with long-standing hyperthyroidism who stopped taking an antithyroid drug last month is in the ICU after emergency surgery with a temperature of 104.6°F and a heart rate of 152. The provider orders PTU and an iodine solution, and both are at the bedside. Which administration plan is correct?",
+            "options": [
+              "Give the PTU first, then the iodine solution about 1 hour later",
+              "Give the iodine solution first, then the PTU about 1 hour later",
+              "Give the PTU and the iodine solution together at the same time",
+              "Give the iodine solution now and hold the PTU until the fever falls"
+            ],
+            "answer": 0,
+            "rationale": "Correct: The iodine solution, which blocks the release of thyroid hormone, is given about 1 hour after the first dose of PTU, which blocks new hormone synthesis and suppresses T4 to T3 conversion. Incorrect: Iodine is not given first or at the same time; the lecture times it about 1 hour after PTU. PTU is not held for fever: it blocks synthesis within about 1 to 2 hours and is a core treatment.",
+            "topic": "Thyroid Crisis: Thyroid Storm &amp; Myxedema Coma",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client in thyroid storm had a blood pressure of 172/94 on admission. Four hours later the heart rate is still 158 and the blood pressure is 94/58, with new crackles in both lungs. How does the nurse interpret this change?",
+            "options": [
+              "The falling pressure means the storm is resolving, and the crackles are from IV fluids given on admission",
+              "Sustained tachycardia is keeping the heart from filling, and heart failure with pulmonary edema is developing",
+              "The falling pressure is the expected effect of the beta blocker, and the crackles are not a related or concerning finding",
+              "The client is moving toward myxedema coma, since hypotension is a finding of severe hypothyroid states"
+            ],
+            "answer": 1,
+            "rationale": "Correct: Thyroid storm starts with hypertension; with sustained tachycardia the heart can't fill properly, so BP drops, and untreated it leads to hypotension, heart failure and pulmonary edema that can cause death. Incorrect: A heart rate still at 158 with new crackles is not resolution. The beta blocker is adjusted to keep a proper heart rate and BP; a heart rate of 158 shows it is not controlling the rate. Myxedema coma is the hypothyroid extreme, with bradycardia and hypothermia, not this picture.",
+            "topic": "Thyroid Crisis: Thyroid Storm &amp; Myxedema Coma",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with poorly controlled hypothyroidism received IV opioids after surgery. Today the client is confused and lethargic, with a temperature of 94.2°F, a heart rate of 46 and a glucose of 58 mg/dL. Thyroid labs were sent but are not back. Which plan does the nurse anticipate?",
+            "options": [
+              "Wait for the thyroid labs to confirm the diagnosis before any treatment",
+              "Start oral levothyroxine alone once the client is alert enough to swallow",
+              "Start IV levothyroxine and liothyronine now, along with IV hydrocortisone",
+              "Give IV hydrocortisone alone until the thyroid labs confirm a low level"
+            ],
+            "answer": 2,
+            "rationale": "Correct: If myxedema coma is suspected, treatment starts before lab confirmation: IV levothyroxine plus liothyronine (the combination works better than T4 alone) and IV hydrocortisone until adrenal insufficiency is ruled out. Opioids are a classic trigger in someone with hypothyroidism. Incorrect: Waiting for labs delays treatment of a high-mortality emergency. Oral T4 alone is for later, once the client can take it by mouth. Hydrocortisone alone leaves the hypothyroidism untreated.",
+            "topic": "Thyroid Crisis: Thyroid Storm &amp; Myxedema Coma",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A family member of a client in myxedema coma asks, \"Why is she getting a steroid when the problem is her thyroid?\" Which response by the nurse is accurate?",
+            "options": [
+              "\"The steroid slows the conversion of T4 to T3, which keeps her thyroid levels from rising far too fast.\"",
+              "\"The steroid raises her body temperature directly, which is the main goal of treatment right now.\"",
+              "\"The steroid blocks the release of stored thyroid hormone, so the replacement dose can work better.\"",
+              "\"Clients like her often also have low adrenal function, so it's given until that has been ruled out.\""
+            ],
+            "answer": 3,
+            "rationale": "Correct: Myxedema coma clients often have a coexisting adrenal insufficiency (decreased pituitary function, secondary adrenal insufficiency, or ACTH secretion blunted by severe hypothyroidism), so IV hydrocortisone is given until it is ruled out. Incorrect: Reducing T4 to T3 conversion is the reason for glucocorticoids in thyroid storm, the opposite emergency. Steroids are not described as raising temperature. Blocking hormone release is the action of the iodine solution in thyroid storm.",
+            "topic": "Thyroid Crisis: Thyroid Storm &amp; Myxedema Coma",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client admitted with myxedema coma has a sodium of 119 mEq/L, and her mental status has worsened since admission. Which interpretation is best supported?",
+            "options": [
+              "Sodium loss from vomiting is causing the low level, so her mental status decline is from the hypothermia",
+              "Impaired free water excretion is causing a dilutional hyponatremia that adds to her mental status decline",
+              "The low sodium is from the hydrocortisone, which retains water and should be held until sodium improves",
+              "The low sodium is a mild finding in myxedema coma that has little effect on mental status in most clients"
+            ],
+            "answer": 1,
+            "rationale": "Correct: Hyponatremia occurs about 50% of the time in myxedema coma; when present it is severe and adds to the decreased mental status. Impaired free water excretion causes a dilutional hyponatremia. Incorrect: Vomiting is not the mechanism given. Hydrocortisone is given until adrenal insufficiency is ruled out and is not held for the sodium. When hyponatremia is present it is severe, not mild, and it worsens mental status.",
+            "topic": "Thyroid Crisis: Thyroid Storm &amp; Myxedema Coma",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client in myxedema coma has a respiratory rate of 7. ABGs show a low pH, a high PaCO2 and a low PaO2. Which action does the nurse anticipate?",
+            "options": [
+              "Encouraging deep breathing, since the client is retaining CO2 to compensate for a metabolic acidosis",
+              "Giving sodium bicarbonate, since the low pH shows a metabolic acidosis from the hypoglycemia",
+              "Holding oxygen, since the slow respiratory rate shows the client's CO2 is already being cleared",
+              "Preparing for mechanical ventilation, since a depressed ventilatory drive is causing hypercapnia"
+            ],
+            "answer": 3,
+            "rationale": "Correct: Overall depression of the ventilatory drive causes hypoventilation, hypoxia and hypercapnia (respiratory acidosis), and some clients need a mechanical ventilator. Incorrect: The high PaCO2 is from hypoventilation, not compensation, and coaching cannot overcome a depressed drive. The low pH with a high PaCO2 is respiratory, not a metabolic acidosis from hypoglycemia. A rate of 7 with a high PaCO2 means CO2 is not being cleared.",
+            "topic": "Thyroid Crisis: Thyroid Storm &amp; Myxedema Coma",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A nursing student asks why a bile acid sequestrant is part of the thyroid storm orders. Which explanation is accurate?",
+            "options": [
+              "It blocks new thyroid hormone synthesis in the gland and suppresses T4 to T3 conversion",
+              "It blocks the release of stored thyroid hormone, so it is given 1 hour after the PTU dose",
+              "It decreases the enterohepatic recycling of thyroid hormone that has been excreted in the bile",
+              "It controls the increased adrenergic tone and is adjusted to keep the heart rate and blood pressure in range"
+            ],
+            "answer": 2,
+            "rationale": "Correct: Thyroid hormones are metabolized in the liver and excreted in the bile; free hormone released into the intestines is reabsorbed. Bile acid sequestrants decrease enterohepatic circulation and recycling of thyroid hormone. Incorrect: Blocking synthesis and conversion is PTU. Blocking release, given 1 hour after PTU, is the iodine solution. Controlling adrenergic signs and adjusting for heart rate is the beta blocker.",
+            "topic": "Thyroid Crisis: Thyroid Storm &amp; Myxedema Coma",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "In a client with thyroid storm, which two drugs both reduce the conversion of T4 to T3?",
+            "options": [
+              "PTU and glucocorticoids",
+              "Iodine solution and PTU",
+              "Beta blocker and glucocorticoids",
+              "Iodine solution and bile acid sequestrant"
+            ],
+            "answer": 0,
+            "rationale": "Correct: PTU blocks new hormone synthesis and suppresses T4 to T3 conversion, and glucocorticoids reduce T4 to T3 conversion. Incorrect: Iodine blocks the release of thyroid hormone rather than its conversion. The beta blocker controls adrenergic signs. Bile acid sequestrants reduce enterohepatic recycling.",
+            "topic": "Thyroid Crisis: Thyroid Storm &amp; Myxedema Coma",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client in thyroid storm received a beta blocker, and the heart rate has dropped from 156 to 98. The client's spouse says, \"Her heart rate is normal now, so the storm is over and she can stop the other thyroid drugs.\" Which response by the nurse is best?",
+            "options": [
+              "\"You're right, a normal heart rate shows the hormone level has dropped, so the PTU can be stopped today.\"",
+              "\"The beta blocker controls her symptoms, but the PTU and other drugs are still needed to lower the hormone itself.\"",
+              "\"The heart rate improved because the PTU is working, so only the beta blocker can be stopped now.\"",
+              "\"She'll need the beta blocker stopped first, because it blocks the synthesis of all new thyroid hormone in the gland.\""
+            ],
+            "answer": 1,
+            "rationale": "Correct: The beta blocker controls the signs of increased adrenergic tone; it does not act on the hormone. PTU blocks synthesis and conversion, iodine blocks release, and glucocorticoids and sequestrants reduce active hormone, so they are still needed. Incorrect: A heart rate controlled by the beta blocker does not show that hormone levels have fallen. The rate improved because of the beta blocker, which is adjusted, not stopped. Blocking synthesis is PTU's action, not the beta blocker's.",
+            "topic": "Thyroid Crisis: Thyroid Storm &amp; Myxedema Coma",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with thyroid disease is admitted confused. Which findings point to myxedema coma rather than thyroid storm? Select all that apply.",
+            "options": [
+              "A core temperature of 94.6°F",
+              "A heart rate of 48 with low blood pressure",
+              "A blood glucose of 52 mg/dL",
+              "A high PaCO2 with a slow respiratory rate",
+              "Atrial fibrillation with a rate above 140",
+              "A temperature of 104.8°F with heavy sweating"
+            ],
+            "answers": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "rationale": "Correct: Myxedema coma brings hypothermia (decreased thermogenesis), bradycardia and hypotension, hypoglycemia, and hypoventilation with hypercapnia. Incorrect: A-fib, atrial flutter and tachycardia above 140 are thyroid storm findings, as are a fever of 104 to 105 and excessive sweating. Altered mental status occurs in both, so confusion alone does not tell them apart.",
+            "topic": "Thyroid Crisis: Thyroid Storm &amp; Myxedema Coma",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
+    },
+    {
+      "id": "week5-addisonian-crisis",
+      "label": "Addisonian Crisis",
+      "week": 5,
+      "sets": {
+        "mustKnow": [],
+        "extraPractice": [
+          {
+            "stem": "A client with Addison's disease arrives after a day of vomiting and diarrhea. BP is 76/42, the client is confused, sodium is 124 mEq/L, potassium is 6.2 mEq/L and glucose is 54 mg/dL. Which orders does the nurse anticipate first?",
+            "options": [
+              "A hydrocortisone 100 mg IV bolus and normal saline IV",
+              "A double dose of oral hydrocortisone and oral fluids",
+              "Oral fludrocortisone and IV fluids restricted to 1 liter",
+              "IV fluids only, holding steroids until cortisol results"
+            ],
+            "answer": 0,
+            "rationale": "Correct: Addisonian crisis is treated by rapidly replacing fluid, salt and glucocorticoids and giving glucose: about a 100 mg IV hydrocortisone bolus, then about 50 mg every 6 hours, plus normal saline (or D5NS) based on volume status. Incorrect: A confused, vomiting, hypotensive client needs IV, not oral, therapy. Fludrocortisone is for maintenance mineralocorticoid needs, and fluids are replaced, not restricted. Holding steroids for lab results delays treatment of an emergency that can be fatal.",
+            "topic": "Addisonian Crisis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client who takes hydrocortisone for Addison's disease calls the clinic with the flu and a temperature of 101.2°F. The client is eating and drinking. Which instruction fits the lecture?",
+            "options": [
+              "Skip doses until the fever breaks, since steroids suppress the immune response and slow your recovery from the flu",
+              "Keep the usual dose unchanged, since the body raises its own cortisol output during an illness",
+              "Stop the hydrocortisone and use the injectable only if vomiting starts, then restart when well",
+              "Increase the dose for the illness per the guideline, such as about three times the dose for three days"
+            ],
+            "answer": 3,
+            "rationale": "Correct: Healthy adrenals raise glucocorticoid output under stress; these clients don't get that boost, so the dose is increased. For a mild or febrile illness, the lecture's example is the 3 x 3 rule (loosely, three times the usual dose for three days). Incorrect: Skipping or stopping doses, or not increasing them under stress, can cause an Addisonian crisis. The client's adrenal glands cannot raise cortisol output, which is the whole problem.",
+            "topic": "Addisonian Crisis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with primary Addison's disease asks why the skin on her knuckles and gums has darkened. Which explanation is correct?",
+            "options": [
+              "Low aldosterone causes sodium loss, and the low sodium stimulates melanin release in the skin",
+              "Low androgen levels remove the hormone that normally keeps melanocytes from making pigment",
+              "The pituitary keeps raising ACTH to push cortisol up, and ACTH also stimulates melanin release",
+              "Hydrocortisone replacement stimulates melanocytes, so the darkening is a side effect of therapy"
+            ],
+            "answer": 2,
+            "rationale": "Correct: With no cortisol there is no negative feedback, so the pituitary increases ACTH (and MSH), and unsuppressed ACTH stimulates melanin secretion by melanocytes, darkening the skin. Incorrect: Low aldosterone causes hyponatremia, hyperkalemia and dehydration, not pigment change. Androgens are described as male sex hormones, not as controlling pigment. Hyperpigmentation is a sign of hypocortisolism, not a side effect of the replacement.",
+            "topic": "Addisonian Crisis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client is diagnosed with Addison's disease after collapsing in an Addisonian crisis. The spouse asks, \"How could this go unnoticed for so long?\" Which response is accurate?",
+            "options": [
+              "\"The pituitary makes up for the loss for years by releasing extra cortisol of its own into the blood.\"",
+              "\"Signs usually don't appear until about 90% of the adrenal cortex is destroyed, so it's often found late.\"",
+              "\"Addison's starts suddenly in nearly all cases, so there was no earlier stage that could have been seen by anyone.\"",
+              "\"The disease affects only the sex hormones at first, and those changes are rarely noticed by anyone.\""
+            ],
+            "answer": 1,
+            "rationale": "Correct: Manifestations don't become evident until about 90% of the adrenal cortex is destroyed, so Addison's is usually advanced at diagnosis or found during an Addisonian crisis. Incorrect: The pituitary raises ACTH and MSH, not cortisol, and the cortex still can't respond. The lecture describes late detection, not a sudden onset. Addison's causes hyposecretion of all three adrenocortical hormones, with the most severe effects from the lack of cortisol.",
+            "topic": "Addisonian Crisis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "Four clients are on the unit. Which client's history best explains a sudden adrenal crisis?",
+            "options": [
+              "A client taking hydrocortisone as directed who tripled the dose for three days with the flu",
+              "A client newly started on fludrocortisone who reports a mild craving for salty foods",
+              "A client who stopped long-term prednisone abruptly last week because of the side effects",
+              "A client tapered off a short prednisone course for a sinus infection, as prescribed"
+            ],
+            "answer": 2,
+            "rationale": "Correct: Sudden cessation of long-term steroid therapy is a trigger for adrenal crisis, which is why clients stopping steroids are tapered; excessive glucocorticoid exposure is typically the tertiary cause. Incorrect: Increasing the dose under stress is the correct stress dosing that prevents crisis. Salt craving is a sign of low aldosterone that fludrocortisone is meant to address, not a crisis trigger. A prescribed taper is the safe way to stop steroids.",
+            "topic": "Addisonian Crisis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "Which set of laboratory findings is consistent with untreated Addison's disease?",
+            "options": [
+              "Sodium 149, potassium 3.1, glucose 58",
+              "Sodium 128, potassium 3.1, glucose 240",
+              "Sodium 149, potassium 5.9, glucose 240",
+              "Sodium 128, potassium 5.9, glucose 58"
+            ],
+            "answer": 3,
+            "rationale": "Correct: Low aldosterone causes loss of sodium and water with potassium retention (hyponatremia, hyperkalemia), and low cortisol causes hypoglycemia, since cortisol normally raises blood glucose. Incorrect: High sodium with low potassium is the reverse of the aldosterone deficiency pattern. A high glucose would not fit a lack of cortisol.",
+            "topic": "Addisonian Crisis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client with adrenal insufficiency is maintained on prednisone alone. At follow-up the client reports craving salt and has a BP of 92/58 and a potassium of 5.6 mEq/L. Which change does the nurse anticipate?",
+            "options": [
+              "Adding fludrocortisone, since prednisone gives glucocorticoid activity only",
+              "Doubling the prednisone, since a higher dose also supplies aldosterone effect",
+              "Switching to dexamethasone, since it adds the needed mineralocorticoid action",
+              "Adding potassium-rich foods, since the hypotension is from potassium loss"
+            ],
+            "answer": 0,
+            "rationale": "Correct: Prednisone is a glucocorticoid. Salt craving, hypotension and hyperkalemia are signs of low aldosterone, so fludrocortisone, the only mineralocorticoid available, is added when extra mineralocorticoid activity is needed. Incorrect: More prednisone is still only glucocorticoid. Dexamethasone is also a glucocorticoid. The potassium is high, not low, and adding potassium would worsen it.",
+            "topic": "Addisonian Crisis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A nurse reviews teaching with a client on lifelong hydrocortisone for Addison's disease. Which client statement shows the teaching was effective?",
+            "options": [
+              "\"If I feel fine for a few months, I can stop the hydrocortisone and see how I do without it.\"",
+              "\"I keep an injectable and an oral dose with me, and I always wear my medical alert bracelet.\"",
+              "\"When I'm sick I keep my usual dose, since extra steroid would lower my immune defenses.\"",
+              "\"I take my whole daily dose at bedtime, since the timing of the doses doesn't really matter.\""
+            ],
+            "answer": 1,
+            "rationale": "Correct: Clients keep an emergency supply (injectable plus oral) and wear a medical alert bracelet so emergency personnel know about their glucocorticoid needs. Incorrect: Replacement is lifelong and never stopped abruptly; stopping can cause a fatal crisis. The dose is increased, not kept the same, during illness. Dosing should mimic the body's normal secretion pattern, so timing does matter.",
+            "topic": "Addisonian Crisis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "A client in Addisonian crisis has received a hydrocortisone bolus and normal saline is infusing. The potassium is 6.4 mEq/L. Which nursing action is the priority?",
+            "options": [
+              "Restrict the saline to 500 mL until the sodium level is rechecked in 6 hours",
+              "Give the next hydrocortisone dose by mouth, since the IV bolus has been given",
+              "Hold the next hydrocortisone dose until the potassium drops below 5.0 mEq/L",
+              "Place the client on a continuous EKG monitor and watch for any dysrhythmias"
+            ],
+            "answer": 3,
+            "rationale": "Correct: Crisis brings hyperkalemia and hyponatremia, so the client is placed on an EKG and watched for dysrhythmias. Incorrect: Saline replaces lost sodium (about 1 to 3 liters) and is not restricted. Hydrocortisone continues at about 50 mg IV every 6 hours until vital signs stabilize and the client can take food and medications by mouth. Holding the steroid would worsen the crisis; hydrocortisone's mineralocorticoid action helps correct the electrolyte pattern.",
+            "topic": "Addisonian Crisis",
+            "source": "quiz-bank"
+          },
+          {
+            "stem": "Which orders does the nurse expect for a client in Addisonian crisis? Select all that apply.",
+            "options": [
+              "Hydrocortisone about 100 mg IV as an initial bolus",
+              "Hydrocortisone about 50 mg IV every 6 hours until the client is stable and can take food and medications by mouth",
+              "Normal saline about 1 to 3 liters IV, or 5% dextrose in normal saline",
+              "Fluid restriction to correct the low serum sodium",
+              "Stop all steroids once the blood pressure returns to normal, since the crisis has passed and the adrenals have recovered",
+              "Potassium replacement added to the saline to prevent hypokalemia"
+            ],
+            "answers": [
+              0,
+              1,
+              2
+            ],
+            "rationale": "Correct: Treatment rapidly replaces fluid, salt and glucocorticoids: about a 100 mg IV hydrocortisone bolus, then about 50 mg IV every 6 hours until vital signs stabilize and the client can take food and medications orally, and normal saline about 1 to 3 liters or D5NS based on volume status and urine output. Incorrect: Fluids are replaced, not restricted, because sodium and water are being lost. Once stable, the client switches to oral medications and is tapered to maintenance, never stopped abruptly. The crisis causes hyperkalemia, so potassium is not added.",
+            "topic": "Addisonian Crisis",
+            "source": "quiz-bank"
+          }
+        ],
+        "eaq": []
+      }
     }
   ],
 
@@ -1981,7 +2424,10 @@ window.QUIZ_BANK = {
     "Multiple Sclerosis",
     "ALS &amp; Guillain-Barré Syndrome",
     "Neuro Infectious Diseases",
-    "TIA, Stroke &amp; Hemorrhage"
+    "TIA, Stroke &amp; Hemorrhage",
+    "DKA &amp; HHS",
+    "Thyroid Crisis: Thyroid Storm &amp; Myxedema Coma",
+    "Addisonian Crisis"
   ]
 };
 
