@@ -117,6 +117,7 @@ const SITE = {
       items: [
         { id: "final-nur325-review", num: "1", title: "NUR 325 Review", file: "final-nur325-review.html" },
         { id: "final-nur326-review", num: "2", title: "NUR 326 Review", file: "final-nur326-review.html" },
+        { id: "final-nur406-review", num: "3", title: "NUR 406 Review", file: "final-nur406-review.html" },
       ]
     },
     /* ---- ADD WHEN YOU BUILD THEM: the Jeopardy group ----
