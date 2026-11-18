@@ -115,9 +115,10 @@ const SITE = {
     {
       label: "Final Exam Review",
       items: [
-        { id: "final-nur325-review", num: "1", title: "NUR 325 Review", file: "final-nur325-review.html" },
-        { id: "final-nur326-review", num: "2", title: "NUR 326 Review", file: "final-nur326-review.html" },
-        { id: "final-nur406-review", num: "3", title: "NUR 406 Review", file: "final-nur406-review.html" },
+        { id: "final-exam-study-guide", num: "1", title: "Final Exam Study Guide", file: "final-exam-study-guide.html" },
+        { id: "final-nur325-review", num: "2", title: "NUR 325 Review", file: "final-nur325-review.html" },
+        { id: "final-nur326-review", num: "3", title: "NUR 326 Review", file: "final-nur326-review.html" },
+        { id: "final-nur406-review", num: "4", title: "NUR 406 Review", file: "final-nur406-review.html" },
       ]
     },
     /* ---- ADD WHEN YOU BUILD THEM: the Jeopardy group ----
